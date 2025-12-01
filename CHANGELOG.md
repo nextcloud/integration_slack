@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## 2.2.1 – 2025-12-01
+
+### Changed
+* Set max NC version to 32 @kyteinsky
+
+
 ## 2.2.0 – 2025-12-01
 
 ### Changed
