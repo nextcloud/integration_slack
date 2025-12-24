@@ -20,7 +20,7 @@ OC.L10N.register(
     "Make sure you set the \"Redirect URI\" in the \"OAuth & Permissions\" section of your Slack app settings to" : "Βεβαιωθείτε ότι ορίσατε την \"Ανακατεύθυνση URI\" στην ενότητα \"OAuth & Άδειες\" των ρυθμίσεων της εφαρμογής Slack σας σε",
     "Put the \"Client ID\" and \"Client secret\" below. Your Nextcloud users will then see a \"Connect to Slack\" button in their personal settings." : "Βάλτε το \"Αναγνωριστικό πελάτη\" και το \"Μυστικό Πελάτη\" παρακάτω. Οι χρήστες του Nextcloud σας θα δουν έπειτα ένα κουμπί \"Σύνδεση με το Slack\" στις προσωπικές τους ρυθμίσεις.",
     "In the same \"OAuth & Permissions\" section, token rotation can be enabled. If enabled, your access token would be regularly refreshed with a refresh token. This is handled automatically." : "Στην ίδια ενότητα \"OAuth & Άδειες\", μπορεί να ενεργοποιηθεί η περιστροφή διακριτικού. Εάν είναι ενεργοποιημένη, το διακριτικό πρόσβασης θα ανανεώνεται τακτικά με ένα διακριτικό ανανέωσης. Αυτό χειρίζεται αυτόματα.",
-    "Client ID" : "Αναγνωριστικό πελάτη",
+    "Application ID" : "Αναγνωριστικό εφαρμογής",
     "ID of your Slack application" : "Η ταυτότητα της εφαρμογής Slack σας",
     "Application secret" : "Μυστικό εφαρμογής",
     "Client secret of your Slack application" : "Μυστικό πελάτη της εφαρμογής Slack σας",
@@ -73,6 +73,7 @@ OC.L10N.register(
     "Go to settings" : "Μετάβαση στις ρυθμίσεις",
     "Upload files" : "Αποστολή αρχείων",
     "Public links" : "Δημόσιοι σύνδεσμοι",
-    "Internal links (Only works for users with access to the files)" : "Εσωτερικοί σύνδεσμοι (Λειτουργεί μόνο για χρήστες με πρόσβαση στα αρχεία)"
+    "Internal links (Only works for users with access to the files)" : "Εσωτερικοί σύνδεσμοι (Λειτουργεί μόνο για χρήστες με πρόσβαση στα αρχεία)",
+    "Client ID" : "Αναγνωριστικό πελάτη"
 },
 "nplurals=2; plural=(n != 1);");

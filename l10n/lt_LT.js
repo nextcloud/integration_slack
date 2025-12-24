@@ -7,7 +7,7 @@ OC.L10N.register(
     "Bad credentials" : "Blogi prisijungimo duomenys",
     "OAuth access token refused" : "„OAuth“ prieigos raktas atmestas",
     "Connected accounts" : "Prijungtos paskyros",
-    "Client ID" : "Kliento ID",
+    "Application ID" : "Programos ID",
     "Application secret" : "Programos paslaptis",
     "Error connecting to Slack:" : "Klaida jungiantis prie Slack:",
     "Slack options saved" : "Slack parinktys įrašytos",
@@ -25,6 +25,7 @@ OC.L10N.register(
     "Cancel" : "Atsisakyti",
     "Confirm" : "Patvirtinti",
     "Connect" : "Prisijungti",
-    "Upload files" : "Įkelti failus"
+    "Upload files" : "Įkelti failus",
+    "Client ID" : "Kliento ID"
 },
 "nplurals=4; plural=(n % 10 == 1 && (n % 100 > 19 || n % 100 < 11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? 1 : n % 1 != 0 ? 2: 3);");

@@ -1,11 +1,11 @@
 { "translations": {
-    "Client ID" : "Klientidentigilo",
     "Edit" : "Modifi",
     "Type" : "Tipo",
     "Set expiration date" : "Uzi limdaton",
     "Comment" : "Komento",
     "Cancel" : "Cancel",
     "Confirm" : "Konfirmi",
-    "Connect" : "Konekti"
+    "Connect" : "Konekti",
+    "Client ID" : "Klientidentigilo"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

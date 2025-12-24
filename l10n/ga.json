@@ -18,7 +18,7 @@
     "Make sure you set the \"Redirect URI\" in the \"OAuth & Permissions\" section of your Slack app settings to" : "Bí cinnte go socraíonn tú an \"URI Atreoraithe\" sa chuid \"OAuth & Permissions\" de do shocruithe aip Slack chun",
     "Put the \"Client ID\" and \"Client secret\" below. Your Nextcloud users will then see a \"Connect to Slack\" button in their personal settings." : "Cuir an \"ID Cliant\" agus \"Rúnda an Chliaint\" thíos. Feicfidh d’úsáideoirí Nextcloud cnaipe “Ceangail le Slack” ina socruithe pearsanta ansin.",
     "In the same \"OAuth & Permissions\" section, token rotation can be enabled. If enabled, your access token would be regularly refreshed with a refresh token. This is handled automatically." : "Sa roinn chéanna \"OAuth & Permissions\", is féidir rothlú comharthaí a chumasú. Má tá sé cumasaithe, dhéanfaí do chomhartha rochtana a athnuachan go rialta le comhartha athnuachana. Déantar é seo a láimhseáil go huathoibríoch.",
-    "Client ID" : "Aitheantas Cliant",
+    "Application ID" : "ID Feidhmchláir",
     "ID of your Slack application" : "ID d'fheidhmchláir Slack",
     "Application secret" : "Rún iarratais",
     "Client secret of your Slack application" : "Rún an chliaint maidir le d'iarratas Slack",
@@ -72,6 +72,7 @@
     "Go to settings" : "Téigh go dtí socruithe",
     "Upload files" : "Uaslódáil comhaid",
     "Public links" : "Naisc phoiblí",
-    "Internal links (Only works for users with access to the files)" : "Naisc inmheánacha (Ní oibríonn ach d’úsáideoirí a bhfuil rochtain acu ar na comhaid)"
+    "Internal links (Only works for users with access to the files)" : "Naisc inmheánacha (Ní oibríonn ach d’úsáideoirí a bhfuil rochtain acu ar na comhaid)",
+    "Client ID" : "Aitheantas Cliant"
 },"pluralForm" :"nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4);"
 }

@@ -18,7 +18,7 @@
     "Make sure you set the \"Redirect URI\" in the \"OAuth & Permissions\" section of your Slack app settings to" : "Переконайтеся, що ви встановили \"Перенаправляти URI\" в розділі \"OAuth та дозволи\" налаштувань вашого додатку Slack на",
     "Put the \"Client ID\" and \"Client secret\" below. Your Nextcloud users will then see a \"Connect to Slack\" button in their personal settings." : "Введіть «Ідентифікатор клієнта» та «Секретний ключ клієнта» нижче. Після цього користувачі Nextcloud побачать у своїх особистих налаштуваннях кнопку «Підключитися до Slack».",
     "In the same \"OAuth & Permissions\" section, token rotation can be enabled. If enabled, your access token would be regularly refreshed with a refresh token. This is handled automatically." : "У тому ж розділі «OAuth та дозволи» можна увімкнути ротацію токенів. Якщо ця опція увімкнена, ваш токен доступу буде регулярно оновлюватися за допомогою токена оновлення. Це відбувається автоматично.",
-    "Client ID" : "Ідентифікатор клієнта",
+    "Application ID" : "Ідентифікатор заявки",
     "ID of your Slack application" : "Ідентифікатор вашого Slack-додатку",
     "Application secret" : "Секрет заявки",
     "Client secret of your Slack application" : "Клієнтська таємниця вашого додатку Slack",
@@ -71,6 +71,7 @@
     "Go to settings" : "Перейдіть до налаштувань",
     "Upload files" : "Завантажити файл",
     "Public links" : "Публічні посилання",
-    "Internal links (Only works for users with access to the files)" : "Внутрішні посилання (працює тільки для користувачів з доступом до файлів)"
+    "Internal links (Only works for users with access to the files)" : "Внутрішні посилання (працює тільки для користувачів з доступом до файлів)",
+    "Client ID" : "Ідентифікатор клієнта"
 },"pluralForm" :"nplurals=4; plural=(n % 1 == 0 && n % 10 == 1 && n % 100 != 11 ? 0 : n % 1 == 0 && n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || (n % 100 >=11 && n % 100 <=14 )) ? 2: 3);"
 }

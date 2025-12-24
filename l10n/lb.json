@@ -1,5 +1,4 @@
 { "translations": {
-    "Client ID" : "Client ID",
     "Edit" : "Änneren",
     "Files" : "Dateien",
     "Type" : "Typ",
@@ -7,6 +6,7 @@
     "Comment" : "Kommentar",
     "Cancel" : "Cancel",
     "Confirm" : "Konfirméieren",
-    "Connect" : "Verbannen"
+    "Connect" : "Verbannen",
+    "Client ID" : "Client ID"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

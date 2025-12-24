@@ -5,7 +5,6 @@ OC.L10N.register(
     "Bad credentials" : "Неточни акредитиви",
     "OAuth access token refused" : "Одбиен OAuth пристапен токен ",
     "Connected accounts" : "Поврзани сметки",
-    "Client ID" : "Клиент ИД",
     "Use a popup to authenticate" : "користи скокачки прозор за автентификација",
     "View only" : "Само за гледање",
     "Edit" : "Уреди",
@@ -16,6 +15,7 @@ OC.L10N.register(
     "Cancel" : "Откажи",
     "Confirm" : "Потврди",
     "Connect" : "Поврзи се",
-    "Upload files" : "Прикачи датотеки"
+    "Upload files" : "Прикачи датотеки",
+    "Client ID" : "Клиент ИД"
 },
 "nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1;");

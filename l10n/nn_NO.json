@@ -1,11 +1,12 @@
 { "translations": {
     "Connected accounts" : "Tilkopla kontoar",
-    "Client ID" : "Klient-ID",
+    "Application ID" : "Program-ID",
     "Edit" : "Rediger",
     "Type" : "Skriv",
     "Set expiration date" : "Set utløpsdato",
     "Comment" : "Kommentér",
     "Cancel" : "Cancel",
-    "Connect" : "Kople til"
+    "Connect" : "Kople til",
+    "Client ID" : "Klient-ID"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

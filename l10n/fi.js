@@ -7,7 +7,7 @@ OC.L10N.register(
     "Bad credentials" : "Virheelliset kirjautumistiedot",
     "OAuth access token refused" : "OAuth-valtuutus hylätty",
     "Connected accounts" : "Yhdistetyt tilit",
-    "Client ID" : "Asiakas-ID",
+    "Application ID" : "Sovelluksen ID",
     "Application secret" : "Sovelluksen salaisuus",
     "Use a popup to authenticate" : "Käytä ponnahdusikkunaa tunnistautumista varten",
     "View only" : "Vain katselu",
@@ -23,6 +23,7 @@ OC.L10N.register(
     "Connect" : "Yhdistä",
     "Go to settings" : "Mene asetuksiin",
     "Upload files" : "Lataa tiedostoja",
-    "Public links" : "Julkiset linkit"
+    "Public links" : "Julkiset linkit",
+    "Client ID" : "Asiakas-ID"
 },
 "nplurals=2; plural=(n != 1);");

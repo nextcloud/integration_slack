@@ -20,7 +20,6 @@ OC.L10N.register(
     "Make sure you set the \"Redirect URI\" in the \"OAuth & Permissions\" section of your Slack app settings to" : "تأكد من تعيين \"إعادة توجيه URI\" في قسم \"التصديق المفتوح و الأذونات OAuth & Permissions\" في إعدادات تطبيق Slack إلى",
     "Put the \"Client ID\" and \"Client secret\" below. Your Nextcloud users will then see a \"Connect to Slack\" button in their personal settings." : "ضع \"معرّف العميل\" و \"سر العميل\" أدناه. سيرى مستخدمو نكست كلاود بعد ذلك زر \"التوصيل إلى سلاك Connect to Slack\" في إعداداتهم الشخصية.",
     "In the same \"OAuth & Permissions\" section, token rotation can be enabled. If enabled, your access token would be regularly refreshed with a refresh token. This is handled automatically." : "في نفس قسم \"التصديق المفتوح و الأذونات OAuth & Permissions\"، يمكن تمكين تدوير الأَمَارَة token rotation. إذا تم تمكينه، فسيتم تحديث أَمَارَة الوصول access token عندك بانتظام بأَمَارَة تحديث refresh token. يتم التعامل مع هذا تلقائيّاً.",
-    "Client ID" : "معرف العميل",
     "ID of your Slack application" : "مُعرِّف ID لتطبيق Slack عندك",
     "Application secret" : "كلمة سر التطبيق",
     "Client secret of your Slack application" : "\"سر العميل\" client secret لتطبيق Slack عندك",
@@ -72,6 +71,7 @@ OC.L10N.register(
     "Go to settings" : "اذهب للاعدادات",
     "Upload files" : "رفع ملفات",
     "Public links" : "اختر قناة",
-    "Internal links (Only works for users with access to the files)" : "الروابط الداخلية (يعمل فقط للمستخدمين الذين لديهم حق الوصول إلى الملفات)"
+    "Internal links (Only works for users with access to the files)" : "الروابط الداخلية (يعمل فقط للمستخدمين الذين لديهم حق الوصول إلى الملفات)",
+    "Client ID" : "معرف العميل"
 },
 "nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;");

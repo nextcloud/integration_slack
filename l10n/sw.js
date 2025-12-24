@@ -20,7 +20,7 @@ OC.L10N.register(
     "Make sure you set the \"Redirect URI\" in the \"OAuth & Permissions\" section of your Slack app settings to" : "Hakikisha umeweka \"Elekeza URI\" katika sehemu ya \"OAuth na Ruhusa\" ya mipangilio yako ya programu ya Slack kuwa",
     "Put the \"Client ID\" and \"Client secret\" below. Your Nextcloud users will then see a \"Connect to Slack\" button in their personal settings." : "Weka \"Kitambulisho cha Mteja\" na \"Siri ya Mteja\" hapa chini. Watumiaji wako wa Nextcloud kisha wataona kitufe cha \"Unganisha kwa Slack\" katika mipangilio yao ya kibinafsi.",
     "In the same \"OAuth & Permissions\" section, token rotation can be enabled. If enabled, your access token would be regularly refreshed with a refresh token. This is handled automatically." : "Katika sehemu ile ile ya \"OAuth & Ruhusa\", mzunguko wa tokeni unaweza kuwezeshwa. Ikiwa imewezeshwa, tokeni yako ya ufikiaji itafanywa upya mara kwa mara na tokeni ya upyaishaji. Hii inashughulikiwa kiotomatiki.",
-    "Client ID" : "Kitambulisho cha mteja",
+    "Application ID" : "Kitambulisho cha maombi",
     "ID of your Slack application" : "Kitambulisho cha programu yako ya Slack",
     "Application secret" : "Siri ya maombi",
     "Client secret of your Slack application" : "Siri ya mteja ya programu yako ya Slack",
@@ -73,6 +73,7 @@ OC.L10N.register(
     "Go to settings" : "Nenda kwenye mipangilio",
     "Upload files" : "Pakia faili",
     "Public links" : "Viungo vya umma",
-    "Internal links (Only works for users with access to the files)" : "Viungo vya ndani (Hufanya kazi kwa watumiaji walio na ufikiaji wa faili pekee)"
+    "Internal links (Only works for users with access to the files)" : "Viungo vya ndani (Hufanya kazi kwa watumiaji walio na ufikiaji wa faili pekee)",
+    "Client ID" : "Kitambulisho cha mteja"
 },
 "nplurals=2; plural=(n != 1);");

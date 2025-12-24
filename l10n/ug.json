@@ -18,7 +18,7 @@
     "Make sure you set the \"Redirect URI\" in the \"OAuth & Permissions\" section of your Slack app settings to" : "Slack ئەپ تەڭشىكىڭىزنىڭ «OAuth & ئىجازەت» بۆلىكىدە «قايتا نىشان URI» نى تەڭشىگەنلىكىڭىزنى جەزملەشتۈرۈڭ.",
     "Put the \"Client ID\" and \"Client secret\" below. Your Nextcloud users will then see a \"Connect to Slack\" button in their personal settings." : "تۆۋەندىكى «خېرىدار كىملىكى» ۋە «خېرىدارلارنىڭ مەخپىيىتى» نى قويۇڭ. Nextcloud ئىشلەتكۈچىلىرىڭىز ئاندىن شەخسىي تەڭشەكلىرىدە «بوشاڭغا ئۇلىنىش» كۇنۇپكىسىنى كۆرىدۇ.",
     "In the same \"OAuth & Permissions\" section, token rotation can be enabled. If enabled, your access token would be regularly refreshed with a refresh token. This is handled automatically." : "ئوخشاش «OAuth & ئىجازەت» بۆلىكىدە بەلگە ئايلىنىشنى قوزغىتىشقا بولىدۇ. ئەگەر قوزغىتىلسا ، زىيارەت بەلگىسى دائىم يېڭىلاش بەلگىسى بىلەن يېڭىلىنىپ تۇرىدۇ. بۇ ئاپتوماتىك بىر تەرەپ قىلىنىدۇ.",
-    "Client ID" : "Client ID",
+    "Application ID" : "ئىلتىماس كىملىكى",
     "ID of your Slack application" : "Slack قوللىنىشچان پروگراممىڭىزنىڭ كىملىكى",
     "Application secret" : "ئىلتىماس مەخپىيىتى",
     "Client secret of your Slack application" : "Slack قوللىنىشچان پروگراممىڭىزنىڭ مەخپىيىتى",
@@ -72,6 +72,7 @@
     "Go to settings" : "تەڭشەكلەرگە بېرىڭ",
     "Upload files" : "ھۆججەتلەرنى يۈكلەڭ",
     "Public links" : "ئاممىۋى ئۇلىنىش",
-    "Internal links (Only works for users with access to the files)" : "ئىچكى ئۇلىنىش (پەقەت ھۆججەتلەرنى زىيارەت قىلالايدىغان ئىشلەتكۈچىلەر ئۈچۈن ئىشلەيدۇ)"
+    "Internal links (Only works for users with access to the files)" : "ئىچكى ئۇلىنىش (پەقەت ھۆججەتلەرنى زىيارەت قىلالايدىغان ئىشلەتكۈچىلەر ئۈچۈن ئىشلەيدۇ)",
+    "Client ID" : "Client ID"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

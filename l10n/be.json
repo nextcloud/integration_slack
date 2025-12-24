@@ -2,7 +2,6 @@
     "Error getting OAuth access token. " : "Памылка атрымання токена доступу OAuth.",
     "OAuth access token refused" : "Токен доступу OAuth адхілены",
     "In the same \"OAuth & Permissions\" section, token rotation can be enabled. If enabled, your access token would be regularly refreshed with a refresh token. This is handled automatically." : "У тым жа раздзеле \"OAuth і дазволы\" можна ўключыць ратацыю токенаў. Калі гэта функцыя ўключана, ваш токен доступу будзе рэгулярна абнаўляцца з дапамогай токена абнаўлення. Гэта робіцца аўтаматычна.",
-    "Client ID" : "Ідэнтыфікатар кліента",
     "Invalid access token" : "Памылковы токен доступу",
     "View only" : "Толькі прагляд",
     "Edit" : "Рэдагаваць",
@@ -12,6 +11,7 @@
     "Comment" : "Каментарый",
     "Cancel" : "Скасаваць",
     "Confirm" : "Пацвердзіць",
-    "Public links" : "Публічныя спасылкі"
+    "Public links" : "Публічныя спасылкі",
+    "Client ID" : "Ідэнтыфікатар кліента"
 },"pluralForm" :"nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);"
 }

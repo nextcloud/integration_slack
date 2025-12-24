@@ -6,7 +6,7 @@ OC.L10N.register(
     "Bad credentials" : "不正な資格情報",
     "OAuth access token refused" : "OAuth アクセストークンが拒否されました",
     "Connected accounts" : "接続済みアカウント",
-    "Client ID" : "クライアント ID",
+    "Application ID" : "アプリケーション ID",
     "Application secret" : "アプリケーションシークレット",
     "View only" : "閲覧のみ",
     "Edit" : "編集",
@@ -17,6 +17,7 @@ OC.L10N.register(
     "Cancel" : "キャンセル",
     "Confirm" : "承認",
     "Connect" : "接続",
-    "Upload files" : "アップロードファイル"
+    "Upload files" : "アップロードファイル",
+    "Client ID" : "クライアント ID"
 },
 "nplurals=1; plural=0;");

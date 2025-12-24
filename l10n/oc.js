@@ -3,7 +3,6 @@ OC.L10N.register(
     {
     "Bad credentials" : "Marrits identificants",
     "Connected accounts" : "Comptes connectats",
-    "Client ID" : "ID client",
     "View only" : "Veire solament",
     "Edit" : "Modificar",
     "Type" : "Tipe",
@@ -11,6 +10,7 @@ OC.L10N.register(
     "Comment" : "Comentaris",
     "Cancel" : "Anullar",
     "Confirm" : "Confirmar",
-    "Connect" : "Connectar"
+    "Connect" : "Connectar",
+    "Client ID" : "ID client"
 },
 "nplurals=2; plural=(n > 1);");

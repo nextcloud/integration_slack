@@ -20,7 +20,7 @@ OC.L10N.register(
     "Make sure you set the \"Redirect URI\" in the \"OAuth & Permissions\" section of your Slack app settings to" : "Palun kontrolli, et „Ümbersuunamise aadress“ oleks Slacki rakenduse „OAuth ja õigused“ eelistustes seadistatud kui",
     "Put the \"Client ID\" and \"Client secret\" below. Your Nextcloud users will then see a \"Connect to Slack\" button in their personal settings." : "Sisesta alljärgnevalt klienditunnus ja kliendisaladus. Seejärel näevad selle Nextcloudi serveri kasutajad oma isiklikes seadistustes nuppu „Ühenda Slackiga“.",
     "In the same \"OAuth & Permissions\" section, token rotation can be enabled. If enabled, your access token would be regularly refreshed with a refresh token. This is handled automatically." : "Samas „OAuth ja õigused“ eelistustes võid sisse lülitada ka tunnusloa perioodilise uuendamise. See tegevus toimub automaatselt.",
-    "Client ID" : "Kliendi ID",
+    "Application ID" : "Rakenduse tunnus",
     "ID of your Slack application" : "Sinu Slacki rakenduse tunnus",
     "Application secret" : "Rakenduse saladus",
     "Client secret of your Slack application" : "Sinu Slacki rakenduse salasõna",
@@ -74,6 +74,7 @@ OC.L10N.register(
     "Go to settings" : "Ava seadistused",
     "Upload files" : "Failide üleslaadimine",
     "Public links" : "Avalikud lingid",
-    "Internal links (Only works for users with access to the files)" : "Sisemine jagamislink (töötab ainult nende kasutajate puhul, kelle on ligipääs nendele failidele)"
+    "Internal links (Only works for users with access to the files)" : "Sisemine jagamislink (töötab ainult nende kasutajate puhul, kelle on ligipääs nendele failidele)",
+    "Client ID" : "Kliendi ID"
 },
 "nplurals=2; plural=(n != 1);");

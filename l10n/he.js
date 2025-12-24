@@ -7,7 +7,6 @@ OC.L10N.register(
     "Bad credentials" : "פרטי גישה שגויים",
     "OAuth access token refused" : "אסימון הגישה ב־OAuth סורב",
     "Connected accounts" : "חשבונות מקושרים",
-    "Client ID" : "מזהה לקו",
     "View only" : "לצפיה בלבד",
     "Edit" : "עריכה",
     "Files" : "קבצים",
@@ -17,6 +16,7 @@ OC.L10N.register(
     "Cancel" : "ביטול",
     "Confirm" : "אישור",
     "Connect" : "התחברות",
-    "Upload files" : "העלאת קבצים"
+    "Upload files" : "העלאת קבצים",
+    "Client ID" : "מזהה לקו"
 },
 "nplurals=3; plural=(n == 1 && n % 1 == 0) ? 0 : (n == 2 && n % 1 == 0) ? 1: 2;");

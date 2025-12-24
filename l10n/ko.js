@@ -6,7 +6,7 @@ OC.L10N.register(
     "Bad credentials" : "옳지 않은 자격 증명",
     "OAuth access token refused" : "OAuth 접근 토큰 거부됨",
     "Connected accounts" : "계정 연결됨",
-    "Client ID" : "클라이언트 ID",
+    "Application ID" : "애플리케이션 ID",
     "password" : "암호",
     "Message to send with the files" : "파일과 함께 전송될 메시지",
     "View only" : "읽기 전용",
@@ -32,6 +32,7 @@ OC.L10N.register(
     "Go to settings" : "설정으로 이동",
     "Upload files" : "파일 업로드",
     "Public links" : "공개 링크",
-    "Internal links (Only works for users with access to the files)" : "내부 링크 (이 파일에 접근 권한이 있는 사람만 사용 가능)"
+    "Internal links (Only works for users with access to the files)" : "내부 링크 (이 파일에 접근 권한이 있는 사람만 사용 가능)",
+    "Client ID" : "클라이언트 ID"
 },
 "nplurals=1; plural=0;");

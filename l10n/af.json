@@ -1,10 +1,10 @@
 { "translations": {
-    "Client ID" : "Klant-ID",
     "Files" : "Lêer ",
     "Set expiration date" : "Stel vervaldatum",
     "Comment" : "Kommentaar",
     "Cancel" : "Cancel",
     "Confirm" : "Bevestig",
-    "Connect" : "Verbind"
+    "Connect" : "Verbind",
+    "Client ID" : "Klant-ID"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

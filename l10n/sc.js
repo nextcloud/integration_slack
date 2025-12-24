@@ -7,7 +7,7 @@ OC.L10N.register(
     "Bad credentials" : "Credentziales non bàlidas",
     "OAuth access token refused" : "Token de intrada OAuth refudadu",
     "Connected accounts" : "Contos connètidos",
-    "Client ID" : "ID cliente",
+    "Application ID" : "ID aplicatzione",
     "Application secret" : "Segretu de s'aplicatzione",
     "View only" : "Isceti in visualizatzione",
     "Edit" : "Modìfica",
@@ -19,6 +19,7 @@ OC.L10N.register(
     "Confirm" : "Cunfirma",
     "Connect" : "Connete",
     "Upload files" : "Càrriga archìvios",
-    "Internal links (Only works for users with access to the files)" : "Ligòngios internos (funtzionat isceti pro utentes cun atzessu a is archìvios)"
+    "Internal links (Only works for users with access to the files)" : "Ligòngios internos (funtzionat isceti pro utentes cun atzessu a is archìvios)",
+    "Client ID" : "ID cliente"
 },
 "nplurals=2; plural=(n != 1);");

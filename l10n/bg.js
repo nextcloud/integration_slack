@@ -7,7 +7,7 @@ OC.L10N.register(
     "Bad credentials" : "Лоши идентификационни данни",
     "OAuth access token refused" : " Маркерът за достъп OAuth е отказан",
     "Connected accounts" : "Свързани профили",
-    "Client ID" : "Идентификатор на клиент",
+    "Application ID" : "Идентификатор на приложение",
     "Application secret" : "Тайна на приложение",
     "Use a popup to authenticate" : "Използване на изскачащ прозорец за удостоверяване",
     "Invalid access token" : "Невалиден токен за достъп",
@@ -30,6 +30,7 @@ OC.L10N.register(
     "Do you want to go to your \"Connect accounts\" personal settings?" : "Искате ли да отидете в личните си настройки в \"Свързване на акаунти\"?",
     "Go to settings" : "Отидете в настройките",
     "Public links" : "Публични връзки",
-    "Internal links (Only works for users with access to the files)" : "Вътрешни връзки (Работи само за потребители с достъп до файловете)"
+    "Internal links (Only works for users with access to the files)" : "Вътрешни връзки (Работи само за потребители с достъп до файловете)",
+    "Client ID" : "Идентификатор на клиент"
 },
 "nplurals=2; plural=(n != 1);");

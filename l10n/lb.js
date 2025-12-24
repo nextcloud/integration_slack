@@ -1,7 +1,6 @@
 OC.L10N.register(
     "integration_slack",
     {
-    "Client ID" : "Client ID",
     "Edit" : "Änneren",
     "Files" : "Dateien",
     "Type" : "Typ",
@@ -9,6 +8,7 @@ OC.L10N.register(
     "Comment" : "Kommentar",
     "Cancel" : "Cancel",
     "Confirm" : "Konfirméieren",
-    "Connect" : "Verbannen"
+    "Connect" : "Verbannen",
+    "Client ID" : "Client ID"
 },
 "nplurals=2; plural=(n != 1);");

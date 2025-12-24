@@ -7,7 +7,7 @@ OC.L10N.register(
     "Bad credentials" : "Credenciales incorrectas",
     "OAuth access token refused" : "Se rechazó el token de acceso de OAuth",
     "Connected accounts" : "Cuentas conectadas",
-    "Client ID" : "ID del cliente",
+    "Application ID" : "ID de la aplicación",
     "Application secret" : "Secreto de la aplicación",
     "Use a popup to authenticate" : "Usar un popup para la autenticación",
     "Invalid access token" : "Token de acceso no válido",
@@ -30,6 +30,7 @@ OC.L10N.register(
     "Do you want to go to your \"Connect accounts\" personal settings?" : "¿Deseas ir a la configuración personal de \"Conectar cuentas\"?",
     "Go to settings" : "Ir a configuración",
     "Public links" : "Enlaces públicos",
-    "Internal links (Only works for users with access to the files)" : "Enlaces internos (solo funciona para usuarios con acceso a los archivos)"
+    "Internal links (Only works for users with access to the files)" : "Enlaces internos (solo funciona para usuarios con acceso a los archivos)",
+    "Client ID" : "ID del cliente"
 },
 "nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;");

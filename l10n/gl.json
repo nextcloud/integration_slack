@@ -18,7 +18,7 @@
     "Make sure you set the \"Redirect URI\" in the \"OAuth & Permissions\" section of your Slack app settings to" : "Asegúrese de configurar o «URI de redirección» na sección «OAuth e permisos» da configuración da súa aplicación Slack para",
     "Put the \"Client ID\" and \"Client secret\" below. Your Nextcloud users will then see a \"Connect to Slack\" button in their personal settings." : "Engada deseguido o «ID de cliente» e o «Segredo de cliente». Os seus usuarios de Nextcloud verán entón un botón «Conectar con Slack» nos seus axustes persoais.",
     "In the same \"OAuth & Permissions\" section, token rotation can be enabled. If enabled, your access token would be regularly refreshed with a refresh token. This is handled automatically." : "Na mesma sección «OAuth e permisos», pódese activar a rotación de testemuños. Se está activado, o seu testemuño de acceso actualizaríase regularmente cun testemuño de actualización. Isto é xestionado automaticamente.",
-    "Client ID" : "ID de cliente",
+    "Application ID" : "ID da aplicación",
     "ID of your Slack application" : "ID da súa aplicación de Slack",
     "Application secret" : "Segredo da aplicación",
     "Client secret of your Slack application" : " Segredo do cliente da súa aplicación de Slack",
@@ -72,6 +72,7 @@
     "Go to settings" : "Ir aos axustes",
     "Upload files" : "Enviar ficheiros",
     "Public links" : "Ligazóns públicas",
-    "Internal links (Only works for users with access to the files)" : "Ligazóns internas (Só funciona para usuarios con acceso aos ficheiros)"
+    "Internal links (Only works for users with access to the files)" : "Ligazóns internas (Só funciona para usuarios con acceso aos ficheiros)",
+    "Client ID" : "ID de cliente"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }
