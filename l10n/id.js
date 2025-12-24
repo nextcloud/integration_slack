@@ -7,7 +7,7 @@ OC.L10N.register(
     "Bad credentials" : "Kredensial tidak benar",
     "OAuth access token refused" : "Token akses OAuth ditolak",
     "Connected accounts" : "Akun terhubung",
-    "Client ID" : "ID Klien",
+    "Application ID" : "ID aplikasi",
     "Application secret" : "Rahasia aplikasi",
     "Use a popup to authenticate" : "Gunakan sembulan untuk mengautentikasi",
     "Invalid access token" : "Token akses tidak valid",
@@ -18,6 +18,7 @@ OC.L10N.register(
     "Comment" : "Komentar",
     "Cancel" : "Batal",
     "Confirm" : "Konfirmasi",
-    "Connect" : "Sambung"
+    "Connect" : "Sambung",
+    "Client ID" : "ID Klien"
 },
 "nplurals=1; plural=0;");

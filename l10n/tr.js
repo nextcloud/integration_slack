@@ -20,7 +20,7 @@ OC.L10N.register(
     "Make sure you set the \"Redirect URI\" in the \"OAuth & Permissions\" section of your Slack app settings to" : "Slack uygulama ayarlarınızın \"OAuth & Permissions\" bölümündeki \"Redirect URI\" ögesini şöyle ayarladığınızdan emin olun:",
     "Put the \"Client ID\" and \"Client secret\" below. Your Nextcloud users will then see a \"Connect to Slack\" button in their personal settings." : "\"İstemci kimliği\" ve \"İstemci parolası\" bilgilerini aşağıya yazın. Bundan sonra Nextcloud kullanıcılarınız kişisel ayarlarında \"Slack bağlantısı kur\" seçeneğini görecek.",
     "In the same \"OAuth & Permissions\" section, token rotation can be enabled. If enabled, your access token would be regularly refreshed with a refresh token. This is handled automatically." : "Aynı \"OAuth & Permissions\" bölümünde kod dönüşümü özelliğini açabilirsiniz. Bu seçenek açıldığında, erişim kodunuz düzenli olarak bir yenileme koduyla değiştirilir. Bu işlem otomatik olarak yapılır.",
-    "Client ID" : "İstemci kimliği",
+    "Application ID" : "Uygulama kimliği",
     "ID of your Slack application" : "Slack uygulamanızın kimliği",
     "Application secret" : "Uygulama parolası",
     "Client secret of your Slack application" : "Slack uygulamanızın istemci parolası",
@@ -74,6 +74,7 @@ OC.L10N.register(
     "Go to settings" : "Ayarlara git",
     "Upload files" : "Dosyaları yükle",
     "Public links" : "Herkese açık bağlantılar",
-    "Internal links (Only works for users with access to the files)" : "İç bağlantılar (yalnızca bu dosyalara erişebilen kullanıcılar için geçerlidir)"
+    "Internal links (Only works for users with access to the files)" : "İç bağlantılar (yalnızca bu dosyalara erişebilen kullanıcılar için geçerlidir)",
+    "Client ID" : "İstemci kimliği"
 },
 "nplurals=2; plural=(n > 1);");

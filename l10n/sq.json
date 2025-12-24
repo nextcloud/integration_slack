@@ -1,5 +1,4 @@
 { "translations": {
-    "Client ID" : "ID klienti",
     "Edit" : "Përpuno",
     "Files" : "Skedarë",
     "Type" : "Tipi",
@@ -7,6 +6,7 @@
     "Comment" : "Koment",
     "Cancel" : "Anuloje",
     "Confirm" : "Konfirmo",
-    "Connect" : "Lidhu"
+    "Connect" : "Lidhu",
+    "Client ID" : "ID klienti"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

@@ -7,7 +7,7 @@ OC.L10N.register(
     "Bad credentials" : "ຂໍ້ມູນຢືນຢັນຕົວຕົນບໍ່ຖືກຕ້ອງ",
     "OAuth access token refused" : "OAuth access token ຖືກປະຕິເສດ",
     "Connected accounts" : "ບັນຊີທີ່ເຊື່ອມຕໍ່",
-    "Client ID" : "Client ID",
+    "Application ID" : "ID ແອັບພລິເຄຊັນ",
     "Application secret" : "ລະຫັດລັບແອັບພລິເຄຊັນ",
     "Use a popup to authenticate" : "ໃຊ້ປັອບອັບເພື່ອຢືນຢັນຕົວຕົນ",
     "Invalid access token" : "ໂທເຄັນການເຂົ້າເຖິງບໍ່ຖືກຕ້ອງ",
@@ -31,6 +31,7 @@ OC.L10N.register(
     "Go to settings" : "ໄປທີ່ການຕັ້ງຄ່າ",
     "Upload files" : "ອັບໂຫຼດຟາຍ",
     "Public links" : "ລິງສາທາລະນະ",
-    "Internal links (Only works for users with access to the files)" : "ລິງພາຍໃນ (ໃຊ້ໄດ້ສະເພາະຜູ້ໃຊ້ທີ່ມີສິດເຂົ້າເຖິງຟາຍເທົ່ານັ້ນ)"
+    "Internal links (Only works for users with access to the files)" : "ລິງພາຍໃນ (ໃຊ້ໄດ້ສະເພາະຜູ້ໃຊ້ທີ່ມີສິດເຂົ້າເຖິງຟາຍເທົ່ານັ້ນ)",
+    "Client ID" : "Client ID"
 },
 "nplurals=1; plural=0;");

@@ -1,7 +1,6 @@
 OC.L10N.register(
     "integration_slack",
     {
-    "Client ID" : "ID klienti",
     "Edit" : "Përpuno",
     "Files" : "Skedarë",
     "Type" : "Tipi",
@@ -9,6 +8,7 @@ OC.L10N.register(
     "Comment" : "Koment",
     "Cancel" : "Anuloje",
     "Confirm" : "Konfirmo",
-    "Connect" : "Lidhu"
+    "Connect" : "Lidhu",
+    "Client ID" : "ID klienti"
 },
 "nplurals=2; plural=(n != 1);");

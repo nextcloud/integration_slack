@@ -2,7 +2,6 @@
     "Bad HTTP method" : "Yomon HTTP usuli",
     "Bad credentials" : "Akkaunt ma'lumotlari xato",
     "Connected accounts" : "Ulangan akkauntlar",
-    "Client ID" : "Mijoz identifikatori",
     "Edit" : "Tahrirlash",
     "Files" : "Fayllar",
     "Type" : "Turi",
@@ -10,6 +9,7 @@
     "Comment" : "Izoh",
     "Cancel" : "Bekor qilish",
     "Confirm" : "Tasdiqlash",
-    "Connect" : "Connect"
+    "Connect" : "Connect",
+    "Client ID" : "Mijoz identifikatori"
 },"pluralForm" :"nplurals=1; plural=0;"
 }

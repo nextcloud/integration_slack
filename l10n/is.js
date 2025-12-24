@@ -5,7 +5,6 @@ OC.L10N.register(
     "Bad credentials" : "Gölluð auðkenni",
     "OAuth access token refused" : "OAuth-aðgangsteikni hafnað",
     "Connected accounts" : "Tengdir aðgangar",
-    "Client ID" : "Biðlaraauðkenni",
     "View only" : "Einungis skoða",
     "Edit" : "Breyta",
     "Files" : "Skráaforrit",
@@ -15,6 +14,7 @@ OC.L10N.register(
     "Cancel" : "Hætta við",
     "Confirm" : "Staðfesta",
     "Connect" : "Tengjast",
-    "Upload files" : "Hlaða inn skrám"
+    "Upload files" : "Hlaða inn skrám",
+    "Client ID" : "Biðlaraauðkenni"
 },
 "nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);");

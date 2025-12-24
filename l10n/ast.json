@@ -1,5 +1,4 @@
 { "translations": {
-    "Client ID" : "ID de veceru",
     "View only" : "Ver namás",
     "Edit" : "Editar",
     "Files" : "Ficheros",
@@ -8,6 +7,7 @@
     "Comment" : "Comentariu",
     "Cancel" : "Encaboxar",
     "Confirm" : "Confirmar",
-    "Connect" : "Coneutar"
+    "Connect" : "Coneutar",
+    "Client ID" : "ID de veceru"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

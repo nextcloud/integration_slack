@@ -18,7 +18,7 @@
     "Make sure you set the \"Redirect URI\" in the \"OAuth & Permissions\" section of your Slack app settings to" : "Certifique-se de definir o \"Redirect URI\" na seção \"OAuth & Permissions” das configurações do aplicativo Slack para",
     "Put the \"Client ID\" and \"Client secret\" below. Your Nextcloud users will then see a \"Connect to Slack\" button in their personal settings." : "Coloque o \"ID de Cliente\" e o \"Segredo de Cliente\" abaixo. Depois, seus usuários do Nextcloud verão o botão \"Conectar ao Slack\" nas configurações pessoais.",
     "In the same \"OAuth & Permissions\" section, token rotation can be enabled. If enabled, your access token would be regularly refreshed with a refresh token. This is handled automatically." : "Na mesma seção \"OAuth & Permissions\", a rotação de token pode ser habilitada. Se habilitada, o token de acesso será regularmente atualizado com um token de atualização. Isso é feito de forma automática.",
-    "Client ID" : "ID de Cliente",
+    "Application ID" : "ID do aplicativo",
     "ID of your Slack application" : "ID do seu aplicativo Slack",
     "Application secret" : "Segredo de aplicativo",
     "Client secret of your Slack application" : "Segredo de cliente do seu aplicativo Slack",
@@ -72,6 +72,7 @@
     "Go to settings" : "Vá para as configurações",
     "Upload files" : "Fazer upload de arquivos",
     "Public links" : "Links públicos",
-    "Internal links (Only works for users with access to the files)" : "Links internos (Só funciona para usuários com acesso aos arquivos)"
+    "Internal links (Only works for users with access to the files)" : "Links internos (Só funciona para usuários com acesso aos arquivos)",
+    "Client ID" : "ID de Cliente"
 },"pluralForm" :"nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;"
 }

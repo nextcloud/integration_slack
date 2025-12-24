@@ -18,7 +18,7 @@
     "Make sure you set the \"Redirect URI\" in the \"OAuth & Permissions\" section of your Slack app settings to" : "Assurez-vous de définir l'URI de redirection dans la section « OAuth & Permissions » des paramètres de votre application Slack",
     "Put the \"Client ID\" and \"Client secret\" below. Your Nextcloud users will then see a \"Connect to Slack\" button in their personal settings." : "Renseignez l'identifiant et le secret du client ci-dessous. Vos utilisateurs Nextcloud verront ensuite un bouton « Se connecter à Slack » dans leurs paramètres personnels.",
     "In the same \"OAuth & Permissions\" section, token rotation can be enabled. If enabled, your access token would be regularly refreshed with a refresh token. This is handled automatically." : "Dans la même section « OAuth & Permissions », la rotation du jeton peut être activée. Le cas échéant, votre jeton d'accès va être régulièrement activé avec un jeton d'actualisation.  Cette opération est gérée automatiquement.",
-    "Client ID" : "ID Client",
+    "Application ID" : "ID de l'application",
     "ID of your Slack application" : "ID de votre application Slack",
     "Application secret" : "Secret Application",
     "Client secret of your Slack application" : "Secret du client de votre application Slack",
@@ -71,6 +71,7 @@
     "Go to settings" : "Aller dans Paramètres",
     "Upload files" : "Téléverser des fichiers",
     "Public links" : "Liens publics",
-    "Internal links (Only works for users with access to the files)" : "Liens internes (ne fonctionne que pour les utilisateurs ayant accès aux fichiers)"
+    "Internal links (Only works for users with access to the files)" : "Liens internes (ne fonctionne que pour les utilisateurs ayant accès aux fichiers)",
+    "Client ID" : "ID Client"
 },"pluralForm" :"nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;"
 }

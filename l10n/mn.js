@@ -1,7 +1,6 @@
 OC.L10N.register(
     "integration_slack",
     {
-    "Client ID" : "Хэрэглэгчийн ID",
     "password" : "нууц үг",
     "View only" : "Зөвхөн үзэх",
     "Edit" : "Өөрчлөх",
@@ -22,6 +21,7 @@ OC.L10N.register(
     "Connect" : "Холбох",
     "Go to settings" : "Тохиргоонд очих",
     "Upload files" : "Файл оруулах",
-    "Public links" : "Нээлттэй холбоос"
+    "Public links" : "Нээлттэй холбоос",
+    "Client ID" : "Хэрэглэгчийн ID"
 },
 "nplurals=2; plural=(n != 1);");

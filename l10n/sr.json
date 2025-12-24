@@ -18,7 +18,7 @@
     "Make sure you set the \"Redirect URI\" in the \"OAuth & Permissions\" section of your Slack app settings to" : "Обезбедите да у „OAuth & Permissions” одељку ваше Slack апликације „Redirect URI” поставите на",
     "Put the \"Client ID\" and \"Client secret\" below. Your Nextcloud users will then see a \"Connect to Slack\" button in their personal settings." : "Унесите испод „ID клијента” and „Тајну клијента”. Ваши Nextcloud корисници ће тада у својим личним подешавањима видети дугме „Повежи се са Slack”.",
     "In the same \"OAuth & Permissions\" section, token rotation can be enabled. If enabled, your access token would be regularly refreshed with a refresh token. This is handled automatically." : "У истом „OAuth & Permissions” одељку може да се укључи ротација жетона. Ако се укључи, ваш приступни жетон ће се редовно обнављати освеженим  жетоном. Ово се врши аутоматски.",
-    "Client ID" : "ID клијента",
+    "Application ID" : "ID апликације",
     "ID of your Slack application" : "ID ваше Slack апликације",
     "Application secret" : "Тајна апликације",
     "Client secret of your Slack application" : "Клијентска тајна ваше Slack апликације",
@@ -71,6 +71,7 @@
     "Go to settings" : "Иди на подешавања",
     "Upload files" : "Отпреми фајлове",
     "Public links" : "Јавни линкови",
-    "Internal links (Only works for users with access to the files)" : "Интерни линкови (функционишу само за кориснике који имају приступ фајловима)"
+    "Internal links (Only works for users with access to the files)" : "Интерни линкови (функционишу само за кориснике који имају приступ фајловима)",
+    "Client ID" : "ID клијента"
 },"pluralForm" :"nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);"
 }

@@ -10,7 +10,7 @@ OC.L10N.register(
     "Slack integration lets you send files to Slack from Nextcloud Files." : "Интеграция со Slack позволяет отправлять файлы в Slack из Nextcloud Files.",
     "Make sure you set the \"Redirect URI\" in the \"OAuth & Permissions\" section of your Slack app settings to" : "Убедитесь, что в разделе «OAuth и разрешения» настроек приложения Slack для параметра «URI перенаправления» установлено значение",
     "Put the \"Client ID\" and \"Client secret\" below. Your Nextcloud users will then see a \"Connect to Slack\" button in their personal settings." : "Введите ниже \"Идентификатор клиента\" и \"Секрет клиента\". Ваши пользователи Nextcloud затем увидят кнопку \"Подключиться к Slack\" в своих личных настройках.",
-    "Client ID" : "ID клиента",
+    "Application ID" : "Идентификатор приложения",
     "Application secret" : "Секрет приложения",
     "Use a popup to authenticate" : "Используйте всплывающее окно для аутентификации",
     "Invalid access token" : "Неверный маркер доступа",
@@ -27,6 +27,7 @@ OC.L10N.register(
     "Connect" : "Подключиться",
     "Do you want to go to your \"Connect accounts\" personal settings?" : "Хотите перейти в личные настройки «Подключения учетных записей»?",
     "Go to settings" : "Перейти к настройкам",
-    "Upload files" : "Отправить файлы"
+    "Upload files" : "Отправить файлы",
+    "Client ID" : "ID клиента"
 },
 "nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);");

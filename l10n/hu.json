@@ -14,7 +14,7 @@
     "Failed to save Slack admin options" : "Slack rendszergazdai beállítások mentése sikertelen",
     "Slack integration" : "Slack integráció",
     "Link to create a Slack application" : "Hivatkozás a Slack alkalmazás létrehozásához",
-    "Client ID" : "Kliensazonosító",
+    "Application ID" : "Alkalmazásazonosító",
     "ID of your Slack application" : "Slack alkalmazás ID-je",
     "Application secret" : "Alkalmazás titka",
     "Client secret of your Slack application" : "A Slack alkalmazás klienstitka",
@@ -57,6 +57,7 @@
     "Go to settings" : "Ugrás a beállításokhoz",
     "Upload files" : "Fájlok feltöltése",
     "Public links" : "Nyilvános hivatkozások",
-    "Internal links (Only works for users with access to the files)" : "Belső hivatkozások (Csak a fájlokhoz hozzáférő felhasználók esetén működik)"
+    "Internal links (Only works for users with access to the files)" : "Belső hivatkozások (Csak a fájlokhoz hozzáférő felhasználók esetén működik)",
+    "Client ID" : "Kliensazonosító"
 },"pluralForm" :"nplurals=2; plural=(n != 1);"
 }

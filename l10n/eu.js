@@ -9,7 +9,7 @@ OC.L10N.register(
     "Connected accounts" : "Konektatutako kontuak",
     "Slack Integration" : "Slack integrazioa",
     "Slack integration" : "Slack integrazioa",
-    "Client ID" : "Bezeroaren IDa",
+    "Application ID" : "Aplikazio ID",
     "Application secret" : "Aplikazio-sekretua",
     "Use a popup to authenticate" : "Erabili popup bat autentifikatzeko",
     "Invalid access token" : "Sarbide token baliogabea",
@@ -37,6 +37,7 @@ OC.L10N.register(
     "Go to settings" : "Joan ezarpenetara",
     "Upload files" : "Igo fitxategiak",
     "Public links" : "Esteka publikoak",
-    "Internal links (Only works for users with access to the files)" : "Barruko estekak (fitxategiak atzitzeko baimena daukaten erabiltzaileei bakarrik balio diete)"
+    "Internal links (Only works for users with access to the files)" : "Barruko estekak (fitxategiak atzitzeko baimena daukaten erabiltzaileei bakarrik balio diete)",
+    "Client ID" : "Bezeroaren IDa"
 },
 "nplurals=2; plural=(n != 1);");

@@ -7,7 +7,7 @@ OC.L10N.register(
     "Bad credentials" : "Credencials dolentes",
     "OAuth access token refused" : "S'ha rebutjat el testimoni d'accés d'OAuth",
     "Connected accounts" : "Comptes connectats",
-    "Client ID" : "ID del client",
+    "Application ID" : "ID de l'aplicació",
     "Application secret" : "Secret de l'aplicació",
     "View only" : "Només visualitació",
     "Edit" : "Edita",
@@ -18,6 +18,7 @@ OC.L10N.register(
     "Cancel" : "Cancelar",
     "Confirm" : "Confirma",
     "Connect" : "Connecta",
-    "Upload files" : "Pujada de fitxers"
+    "Upload files" : "Pujada de fitxers",
+    "Client ID" : "ID del client"
 },
 "nplurals=2; plural=(n != 1);");

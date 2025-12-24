@@ -1,7 +1,6 @@
 OC.L10N.register(
     "integration_slack",
     {
-    "Client ID" : "ID del cliente",
     "View only" : "Solo ver",
     "Edit" : "Editar",
     "Files" : "Archivo",
@@ -11,6 +10,7 @@ OC.L10N.register(
     "Cancel" : "Cancel",
     "Confirm" : "Confirmar",
     "Connect" : "Conectar",
-    "Upload files" : "Subiendo archivos"
+    "Upload files" : "Subiendo archivos",
+    "Client ID" : "ID del cliente"
 },
 "nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;");

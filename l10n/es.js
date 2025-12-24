@@ -20,7 +20,7 @@ OC.L10N.register(
     "Make sure you set the \"Redirect URI\" in the \"OAuth & Permissions\" section of your Slack app settings to" : "Asegúrese de establecer el valor \"URI de Redirección\" en la sección de \"OAuth y permisos\" en la configuración de su app Slack a",
     "Put the \"Client ID\" and \"Client secret\" below. Your Nextcloud users will then see a \"Connect to Slack\" button in their personal settings." : "Coloque el \"ID de cliente\" y \"Secreto de cliente\" a continuación. Sus usuarios de Nextcloud verán entonces un botón \"Conectarse a Slack\" en sus ajustes personales.",
     "In the same \"OAuth & Permissions\" section, token rotation can be enabled. If enabled, your access token would be regularly refreshed with a refresh token. This is handled automatically." : "In la misma sección de \"OAuth y permisos\", la rotación del token puede ser activada, su token de acceso será periódicamente refrescado. Esto se gestiona de manera automática.",
-    "Client ID" : "ID de cliente",
+    "Application ID" : "ID de la aplicación",
     "ID of your Slack application" : "ID de su aplicación Slack",
     "Application secret" : "Secreto de la aplicación",
     "Client secret of your Slack application" : "Secreto de cliente de su aplicación Slack",
@@ -73,6 +73,7 @@ OC.L10N.register(
     "Go to settings" : "Ir a las configuraciones",
     "Upload files" : "Cargar archivos",
     "Public links" : "Enlaces públicos",
-    "Internal links (Only works for users with access to the files)" : "Enlaces internos (Solo funciona para usuarios con acceso a los archivos)"
+    "Internal links (Only works for users with access to the files)" : "Enlaces internos (Solo funciona para usuarios con acceso a los archivos)",
+    "Client ID" : "ID de cliente"
 },
 "nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;");

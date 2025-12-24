@@ -1,7 +1,6 @@
 OC.L10N.register(
     "integration_slack",
     {
-    "Client ID" : "ID de veceru",
     "View only" : "Ver namás",
     "Edit" : "Editar",
     "Files" : "Ficheros",
@@ -10,6 +9,7 @@ OC.L10N.register(
     "Comment" : "Comentariu",
     "Cancel" : "Encaboxar",
     "Confirm" : "Confirmar",
-    "Connect" : "Coneutar"
+    "Connect" : "Coneutar",
+    "Client ID" : "ID de veceru"
 },
 "nplurals=2; plural=(n != 1);");

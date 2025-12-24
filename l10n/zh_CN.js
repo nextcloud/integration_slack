@@ -20,7 +20,7 @@ OC.L10N.register(
     "Make sure you set the \"Redirect URI\" in the \"OAuth & Permissions\" section of your Slack app settings to" : "确保将 Slack 应用设置中的“OAuth 和权限”部分的“重定向 URI”设置为",
     "Put the \"Client ID\" and \"Client secret\" below. Your Nextcloud users will then see a \"Connect to Slack\" button in their personal settings." : "在下面输入“客户端 ID”和“客户端密钥”。这样，Nextcloud 用户将在个人设置中看到“关联到 Slack”按钮。",
     "In the same \"OAuth & Permissions\" section, token rotation can be enabled. If enabled, your access token would be regularly refreshed with a refresh token. This is handled automatically." : "在同一“OAuth 和权限”部分，可以启用令牌轮换。如果启用，将使用“刷新令牌”定期刷新“访问令牌”。这个过程是自动处理的。",
-    "Client ID" : "客户端 ID",
+    "Application ID" : "应用程序ID",
     "ID of your Slack application" : "您 Slack 应用的 ID",
     "Application secret" : "应用密码",
     "Client secret of your Slack application" : "您 Slack 应用的客戶端密码",
@@ -69,6 +69,7 @@ OC.L10N.register(
     "Go to settings" : "前往设置",
     "Upload files" : "上传文件",
     "Public links" : "公开链接",
-    "Internal links (Only works for users with access to the files)" : "内部链接（仅对可访问文件的用户有效）"
+    "Internal links (Only works for users with access to the files)" : "内部链接（仅对可访问文件的用户有效）",
+    "Client ID" : "客户端 ID"
 },
 "nplurals=1; plural=0;");

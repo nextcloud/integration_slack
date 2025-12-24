@@ -20,7 +20,7 @@ OC.L10N.register(
     "Make sure you set the \"Redirect URI\" in the \"OAuth & Permissions\" section of your Slack app settings to" : "Zajistěte aby „URI přesměrování“ v sekci „OAuth a oprávnění“ vaší Slack aplikace bylo nastavené na",
     "Put the \"Client ID\" and \"Client secret\" below. Your Nextcloud users will then see a \"Connect to Slack\" button in their personal settings." : "Níže vložte „Identif. klienta“ a „Tajemství pro klienta“. Vaši Nextcloud uživatelé pak ve svých osobních nastaveních uvidí tlačítko „Připojit ke Slack“.",
     "In the same \"OAuth & Permissions\" section, token rotation can be enabled. If enabled, your access token would be regularly refreshed with a refresh token. This is handled automatically." : "Ve stejné sekci „OAuth a oprávnění“ je možné zapnout obnovování tokenu. Pokud zapnuto, váš přístupový token bude pravidelně obnovován za aktuálně platný. Děje se tak automaticky.",
-    "Client ID" : "Identif. klienta",
+    "Application ID" : "Identif. aplikace",
     "ID of your Slack application" : "Identif. vaší Slack aplikace",
     "Application secret" : "Tajemství pro aplikaci",
     "Client secret of your Slack application" : "Klientské tajemství vaší Slack aplikace",
@@ -73,6 +73,7 @@ OC.L10N.register(
     "Go to settings" : "Přejít do nastavení",
     "Upload files" : "Nahrát soubory",
     "Public links" : "Veřejné odkazy",
-    "Internal links (Only works for users with access to the files)" : "Interním odkazy (funguje pouze pro uživatele, kteří mají k těmto souborům přístup)"
+    "Internal links (Only works for users with access to the files)" : "Interním odkazy (funguje pouze pro uživatele, kteří mají k těmto souborům přístup)",
+    "Client ID" : "Identif. klienta"
 },
 "nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;");

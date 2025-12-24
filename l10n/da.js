@@ -7,7 +7,6 @@ OC.L10N.register(
     "Bad credentials" : "Forkerte legitimationsoplysninger",
     "OAuth access token refused" : "OAuth adgangsnøgle afvist",
     "Connected accounts" : "Forbundne konti",
-    "Client ID" : "Klient-ID",
     "password" : "adgangskode",
     "Message to send with the files" : "Besked der skal sendes med filerne",
     "View only" : "Kun visning",
@@ -24,6 +23,7 @@ OC.L10N.register(
     "Go to settings" : "Gå til indstillinger",
     "Upload files" : "Send filer",
     "Public links" : "Offentlige links",
-    "Internal links (Only works for users with access to the files)" : "Interne links (virker kun for brugere med adgang til filerne)"
+    "Internal links (Only works for users with access to the files)" : "Interne links (virker kun for brugere med adgang til filerne)",
+    "Client ID" : "Klient-ID"
 },
 "nplurals=2; plural=(n != 1);");

@@ -7,7 +7,7 @@ OC.L10N.register(
     "Bad credentials" : "Foute inloggegevens",
     "OAuth access token refused" : "OAuth toegangstoken geweigerd",
     "Connected accounts" : "Verbonden accounts",
-    "Client ID" : "Client ID",
+    "Application ID" : "Application ID",
     "Application secret" : "Application secret",
     "View only" : "Alleen bekijken",
     "Edit" : "Bewerken",
@@ -18,6 +18,7 @@ OC.L10N.register(
     "Cancel" : "Annuleren",
     "Confirm" : "Bevestigen",
     "Connect" : "Verbinden",
-    "Upload files" : "Bestanden uploaden"
+    "Upload files" : "Bestanden uploaden",
+    "Client ID" : "Client ID"
 },
 "nplurals=2; plural=(n != 1);");

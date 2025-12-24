@@ -7,7 +7,7 @@ OC.L10N.register(
     "Bad credentials" : "Credenziali non valide",
     "OAuth access token refused" : "Token di accesso OAuth rifiutato",
     "Connected accounts" : "Account connessi",
-    "Client ID" : "ID client",
+    "Application ID" : "ID applicazione",
     "Application secret" : "Segreto applicazione",
     "password" : "password",
     "View only" : "Sola lettura",
@@ -19,6 +19,7 @@ OC.L10N.register(
     "Comment" : "Commento",
     "Cancel" : "Annulla",
     "Confirm" : "Conferma",
-    "Connect" : "Connetti"
+    "Connect" : "Connetti",
+    "Client ID" : "ID client"
 },
 "nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;");

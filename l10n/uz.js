@@ -4,7 +4,6 @@ OC.L10N.register(
     "Bad HTTP method" : "Yomon HTTP usuli",
     "Bad credentials" : "Akkaunt ma'lumotlari xato",
     "Connected accounts" : "Ulangan akkauntlar",
-    "Client ID" : "Mijoz identifikatori",
     "Edit" : "Tahrirlash",
     "Files" : "Fayllar",
     "Type" : "Turi",
@@ -12,6 +11,7 @@ OC.L10N.register(
     "Comment" : "Izoh",
     "Cancel" : "Bekor qilish",
     "Confirm" : "Tasdiqlash",
-    "Connect" : "Connect"
+    "Connect" : "Connect",
+    "Client ID" : "Mijoz identifikatori"
 },
 "nplurals=1; plural=0;");
