@@ -46,6 +46,7 @@ OC.L10N.register(
     "Refresh channels" : "Znovu načíst kanály",
     "Choose a conversation" : "Zvolit konverzaci",
     "Type" : "Typ",
+    "Public share permission" : "Oprávnění veřejného sdílení",
     "Set expiration date" : "Nastavit datum skončení platnosti",
     "Expires on" : "Platnost skončí",
     "Set link password" : "Nastavit heslo pro odkaz",
