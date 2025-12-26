@@ -41,7 +41,7 @@ OC.L10N.register(
     "Edit" : "Redigeeri",
     "Failed to load Slack channels" : "Slacki kanalite laadimine ei õnnestunud",
     "Files" : "Failid",
-    "Remove file from list" : "Eemalda tail loendist",
+    "Remove file from list" : "Eemalda fail loendist",
     "Conversation" : "Vestlus",
     "Refresh channels" : "Värskenda kanaleid",
     "Choose a conversation" : "Vali vestlus",
