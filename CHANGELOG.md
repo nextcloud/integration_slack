@@ -6,6 +6,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## [Unreleased]
 
+## 3.1.0 – 2025-01-08
+
+### Fixed
+- Fix files actions (#48) @julien-nc
+
+### Added
+- Use new settings components (#48) @julien-nc
+
+
 ## 3.0.0 – 2025-12-01
 
 ### Changed
