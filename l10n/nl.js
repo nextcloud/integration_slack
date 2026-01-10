@@ -18,7 +18,9 @@ OC.L10N.register(
     "Cancel" : "Annuleren",
     "Confirm" : "Bevestigen",
     "Connect" : "Verbinden",
+    "Go to settings" : "Ga naar instellingen",
     "Upload files" : "Bestanden uploaden",
+    "Public links" : "Openbare links",
     "Client ID" : "Client ID"
 },
 "nplurals=2; plural=(n != 1);");
