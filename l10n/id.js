@@ -13,6 +13,7 @@ OC.L10N.register(
     "Invalid access token" : "Token akses tidak valid",
     "View only" : "Hanya lihat",
     "Edit" : "Sunting",
+    "Files" : "File",
     "Type" : "tipe",
     "Set expiration date" : "Atur tanggal kedaluwarsa",
     "Comment" : "Komentar",
