@@ -9,6 +9,7 @@ OC.L10N.register(
     "Connected accounts" : "Account connessi",
     "Application ID" : "ID applicazione",
     "Application secret" : "Segreto applicazione",
+    "Invalid access token" : "Token di accesso non valido",
     "password" : "password",
     "View only" : "Sola lettura",
     "Edit" : "Modifica",
