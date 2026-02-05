@@ -4,7 +4,7 @@
     "Error getting OAuth access token. " : "Помилка отримання токену доступу OAuth.",
     "Error during OAuth exchanges" : "Помилка під час обміну OAuth",
     "Bad HTTP method" : "Поганий метод HTTP",
-    "Bad credentials" : "Погані дані авторизації",
+    "Bad credentials" : "Неправильні дані авторизації",
     "OAuth access token refused" : "Токен доступу OAuth відхилено",
     "Connected accounts" : "Підключені облікові записи",
     "Slack Integration" : "Інтеграція зі Slack",
