@@ -13,7 +13,6 @@ import axios from '@nextcloud/axios'
 import { showError, showSuccess } from '@nextcloud/dialogs'
 import { subscribe } from '@nextcloud/event-bus'
 import {
-	FileAction,
 	FileType,
 	Permission,
 	registerFileAction,
@@ -63,7 +62,7 @@ function openChannelSelector(files) {
 	modalVue.showModal()
 }
 
-const sendAction = new FileAction({
+const sendAction = {
 	id: 'slackSend',
 	displayName: ({ nodes }) => {
 		return nodes.length > 1
@@ -86,7 +85,7 @@ const sendAction = new FileAction({
 		await sendSelectedNodes(nodes)
 		return nodes.map(_ => null)
 	},
-})
+}
 registerFileAction(sendAction)
 
 async function sendSelectedNodes(nodes) {
