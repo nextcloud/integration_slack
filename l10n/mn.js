@@ -1,6 +1,8 @@
 OC.L10N.register(
     "integration_slack",
     {
+    "Bad HTTP method" : "Буруу HTTP арга",
+    "Bad credentials" : "Буруу нэвтрэх мэдээлэл",
     "password" : "нууц үг",
     "View only" : "Зөвхөн үзэх",
     "Edit" : "Өөрчлөх",
