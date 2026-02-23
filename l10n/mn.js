@@ -3,6 +3,7 @@ OC.L10N.register(
     {
     "Bad HTTP method" : "Буруу HTTP арга",
     "Bad credentials" : "Буруу нэвтрэх мэдээлэл",
+    "Connected accounts" : "Холбогдсон бүртгэлүүд",
     "password" : "нууц үг",
     "View only" : "Зөвхөн үзэх",
     "Edit" : "Өөрчлөх",
