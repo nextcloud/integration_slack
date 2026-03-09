@@ -21,6 +21,7 @@ OC.L10N.register(
     "Cancel" : "Annulla",
     "Confirm" : "Conferma",
     "Connect" : "Connetti",
+    "Public links" : "Link pubblici",
     "Client ID" : "ID client"
 },
 "nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;");
