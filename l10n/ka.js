@@ -3,6 +3,7 @@ OC.L10N.register(
     {
     "View only" : "View only",
     "Edit" : "Edit",
+    "Files" : "ფაილები",
     "Type" : "Type",
     "Set expiration date" : "Set expiration date",
     "Comment" : "Comment",
