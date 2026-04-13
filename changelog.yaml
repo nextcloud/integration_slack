@@ -1,0 +1,219 @@
+repository_link: https://github.com/nextcloud/integration_slack
+title: Change Log
+description: All notable changes to this project will be documented in this file.
+markdown_preamble: |-
+  # Change Log
+  All notable changes to this project will be documented in this file.
+
+  The format is based on [Keep a Changelog](http://keepachangelog.com/)
+  and this project adheres to [Semantic Versioning](http://semver.org/).
+entries:
+- version: 3.1.0
+  release_date: '2025-01-08'
+  sections:
+  - name: Fixed
+    items:
+    - text: Fix files actions
+      authors:
+      - julien-nc
+      issue_number: 48
+  - name: Added
+    items:
+    - text: Use new settings components
+      authors:
+      - julien-nc
+      issue_number: 48
+- version: 3.0.0
+  release_date: '2025-12-01'
+  sections:
+  - name: Changed
+    items:
+    - text: drop NC 32 and below
+      authors:
+      - kyteinsky
+      issue_number: 44
+- version: 2.2.0
+  release_date: '2025-12-01'
+  sections:
+  - name: Changed
+    items:
+    - text: Set max NC version to 33
+      authors:
+      - kyteinsky
+      issue_number: 39
+    - text: lazy config migration
+      authors:
+      - kyteinsky
+      issue_number: 39
+  - name: Added
+    items:
+    - text: migrate to vue3
+      authors:
+      - kyteinsky
+      issue_number: 40
+- version: 2.1.1
+  release_date: '2025-07-18'
+  sections:
+  - name: Changed
+    items:
+    - text: Set min NC version to 30
+      authors:
+      - kyteinsky
+      issue_number: 36
+    - text: change upload icon to UploadBoxOutline
+      authors:
+      - kyteinsky
+      issue_number: 37
+- version: 2.1.0
+  release_date: '2025-07-08'
+  sections:
+  - name: Changed
+    items:
+    - text: Maintenance updates
+      authors:
+      - kyteinsky
+      issue_number: 30
+    - text: Bump max NC version to 32
+      authors:
+      - kyteinsky
+      issue_number: 30
+    - text: Use outline icons instead of solid ones
+      authors:
+      - kyteinsky
+      issue_number: 33
+- version: 2.0.2
+  release_date: '2025-01-07'
+  sections:
+  - name: Fixed
+    items:
+    - text: second fix for un-named channels and groups
+      authors:
+      - kyteinsky
+      issue_number:
+- version: 2.0.1
+  release_date: '2024-11-18'
+  sections:
+  - name: Fixed
+    items:
+    - text: fetch all available channels + cache them
+      authors:
+      - kyteinsky
+      issue_number:
+    - text: user icons in conversation list
+      authors:
+      - kyteinsky
+      issue_number:
+    - text: only show conversations user is part of
+      authors:
+      - kyteinsky
+      issue_number:
+- version: 2.0.0
+  release_date: '2024-11-13'
+  sections:
+  - name: Changed
+    items:
+    - text: Encrypt user tokens and refresh tokens
+      authors:
+      - julien-nc
+      issue_number:
+    - text: Migrate the existing stored values
+      authors:
+      - julien-nc
+      issue_number:
+    - text: Update npm pkgs
+      authors:
+      - julien-nc
+      issue_number:
+    - text: Bump max nc version to 31
+      authors:
+      - julien-nc
+      issue_number:
+    - text: Name groups on id if name absent
+      authors:
+      - kyteinsky
+      issue_number:
+  - name: Added
+    items:
+    - text: Add password confirmation when setting the client id and secret
+      authors:
+      - julien-nc
+      issue_number:
+  - name: Fixed
+    items:
+    - text: Fix small style issues in send modal
+      authors:
+      - julien-nc
+      issue_number:
+    - text: Fix file upload after breaking change in the Slack API
+      authors:
+      - julien-nc
+      issue_number:
+    - text: Fix group channel name
+      authors:
+      - julien-nc
+      issue_number:
+- version: 1.2.0
+  release_date: '2024-07-26'
+  sections:
+  - name: Changed
+    items:
+    - text: update composer deps
+      authors:
+      - kyteinsky
+      issue_number:
+    - text: update gh workflows
+      authors:
+      - kyteinsky
+      issue_number:
+    - text: bump max NC version to 30
+      authors:
+      - kyteinsky
+      issue_number:
+- version: 1.1.0
+  release_date: '2024-03-14'
+  sections:
+  - name: Added
+    items:
+    - text: composer setup, node update (vue8), add gh workflows
+      authors:
+      - kyteinsky
+      issue_number:
+    - text: alphabetical ordering of conversations
+      authors:
+      - kyteinsky
+      issue_number:
+    - text: compatibility with NC 29
+      authors:
+      - kyteinsky
+      issue_number:
+  - name: Fixed
+    items:
+    - text: Migrate to new file actions for 28
+      authors:
+      - provokateurin
+      issue_number:
+    - text: update tests/bootstrap.php file
+      authors:
+      - kyteinsky
+      issue_number:
+- version: 1.0.1
+  release_date: '2023-08-22'
+  sections:
+  - name: Added
+    items:
+    - text: redirect uri in oauth requests
+      authors: []
+      issue_number:
+  - name: Fixed
+    items:
+    - text: slack profile pictures url fix
+      authors: []
+      issue_number:
+- version: 1.0.0
+  release_date: '2023-07-20'
+  sections:
+  - name: Added
+    items:
+    - text: the app
+      authors: []
+      issue_number:
