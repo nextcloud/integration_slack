@@ -10,7 +10,8 @@ markdown_preamble: |-
 release_agent:
   ignore_commits:
   - author: "^pre-commit-ci\\[bot\\]$"
-  - author: "^nextcloud-bot$"
+  - author: "^Nextcloud-bot$"
+  - email: "bot@nextcloud.com"
   - author: "^dependabot\\[bot\\]$"
 entries:
 - version: 3.1.0
