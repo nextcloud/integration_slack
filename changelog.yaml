@@ -17,15 +17,15 @@ entries:
 - version: 3.1.0
   release_date: '2025-01-08'
   sections:
-  - name: Fixed
-    items:
-    - text: Fix files actions
-      authors:
-      - julien-nc
-      issue_number: 48
   - name: Added
     items:
     - text: Use new settings components
+      authors:
+      - julien-nc
+      issue_number: 48
+  - name: Fixed
+    items:
+    - text: Fix files actions
       authors:
       - julien-nc
       issue_number: 48
@@ -41,6 +41,12 @@ entries:
 - version: 2.2.0
   release_date: '2025-12-01'
   sections:
+  - name: Added
+    items:
+    - text: migrate to vue3
+      authors:
+      - kyteinsky
+      issue_number: 40
   - name: Changed
     items:
     - text: Set max NC version to 33
@@ -51,12 +57,6 @@ entries:
       authors:
       - kyteinsky
       issue_number: 39
-  - name: Added
-    items:
-    - text: migrate to vue3
-      authors:
-      - kyteinsky
-      issue_number: 40
 - version: 2.1.1
   release_date: '2025-07-18'
   sections:
@@ -116,6 +116,12 @@ entries:
 - version: 2.0.0
   release_date: '2024-11-13'
   sections:
+  - name: Added
+    items:
+    - text: Add password confirmation when setting the client id and secret
+      authors:
+      - julien-nc
+      issue_number:
   - name: Changed
     items:
     - text: Encrypt user tokens and refresh tokens
@@ -137,12 +143,6 @@ entries:
     - text: Name groups on id if name absent
       authors:
       - kyteinsky
-      issue_number:
-  - name: Added
-    items:
-    - text: Add password confirmation when setting the client id and secret
-      authors:
-      - julien-nc
       issue_number:
   - name: Fixed
     items:
