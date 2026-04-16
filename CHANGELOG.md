@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 3.1.1 - 2026-04-16
+
+### Changed
+- maintenance updates ([#52](https://github.com/nextcloud/integration_slack/pull/52)) @kyteinsky
+- structured changelog in a yaml file ([#53](https://github.com/nextcloud/integration_slack/pull/53)) @kyteinsky
+- add ignore patterns for changelog @kyteinsky
+- update changelog ignore entries @kyteinsky
+- format the changelog files @kyteinsky
+
+### Fixed
+- No more FileAction class in @nextcloud/files ([#50](https://github.com/nextcloud/integration_slack/pull/50)) @julien-nc
+
+
 ## 3.1.0 - 2025-01-08
 
 ### Added

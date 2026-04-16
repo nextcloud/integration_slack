@@ -11,9 +11,37 @@ release_agent:
   ignore_commits:
   - author: "^pre-commit-ci\\[bot\\]$"
   - author: "^Nextcloud-bot$"
-  - email: "bot@nextcloud.com"
+  - email: bot@nextcloud.com
   - author: "^dependabot\\[bot\\]$"
 entries:
+- version: 3.1.1
+  release_date: '2026-04-16'
+  sections:
+  - name: Changed
+    items:
+    - text: maintenance updates
+      authors:
+      - kyteinsky
+      issue_number: 52
+    - text: structured changelog in a yaml file
+      authors:
+      - kyteinsky
+      issue_number: 53
+    - text: add ignore patterns for changelog
+      authors:
+      - kyteinsky
+    - text: update changelog ignore entries
+      authors:
+      - kyteinsky
+    - text: format the changelog files
+      authors:
+      - kyteinsky
+  - name: Fixed
+    items:
+    - text: No more FileAction class in @nextcloud/files
+      authors:
+      - julien-nc
+      issue_number: 50
 - version: 3.1.0
   release_date: '2025-01-08'
   sections:
