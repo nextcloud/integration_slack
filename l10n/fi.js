@@ -19,6 +19,8 @@ OC.L10N.register(
     "Set link password" : "Aseta linkin salasana",
     "Comment" : "Kommentti",
     "Cancel" : "Peruuta",
+    "_Send file_::_Send files_" : ["Lähetä tiedosto","Lähetä tiedostot"],
+    "_Send link_::_Send links_" : ["Lähetä linkki","Lähetä linkit"],
     "Confirm" : "Vahvista",
     "Connect" : "Yhdistä",
     "Go to settings" : "Mene asetuksiin",
