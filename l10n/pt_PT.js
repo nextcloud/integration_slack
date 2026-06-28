@@ -1,9 +1,12 @@
 OC.L10N.register(
     "integration_slack",
     {
+    "Error getting OAuth access token. " : "Erro ao obter o token de acesso OAuth.",
     "Error during OAuth exchanges" : "Erro durante trocas com o OAuth",
     "Bad HTTP method" : "Método HTTP incorreto",
     "Bad credentials" : "Credenciais inválidas",
+    "OAuth access token refused" : "Token de acesso OAuth recusado",
+    "Connected accounts" : "Contas conectadas",
     "View only" : "Visualizar apenas",
     "Edit" : "Editar",
     "Files" : "Ficheiros",
@@ -14,6 +17,7 @@ OC.L10N.register(
     "Confirm" : "Confirmar",
     "_Failed to send the internal link to {channelName}_::_Failed to send internal links to {channelName}_" : ["Falha ao enviar link interno para {channelName}","Falha ao enviar links internos para {channelName}","Falha ao enviar links internos para {channelName}"],
     "Connect" : "Ligar",
+    "Go to settings" : "Vá para as configurações",
     "Upload files" : "Carregar ficheiros",
     "Internal links (Only works for users with access to the files)" : "Links internos (Funcionam apenas para utilizadores com acesso aos ficheiros)",
     "Client ID" : "Id. do Cliente"
