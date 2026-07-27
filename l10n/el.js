@@ -46,6 +46,7 @@ OC.L10N.register(
     "Refresh channels" : "Ανανέωση καναλιών",
     "Choose a conversation" : "Επιλέξτε μια συνομιλία",
     "Type" : "Τύπος",
+    "Public share permission" : "Δημόσια άδεια κοινής χρήσης",
     "Set expiration date" : "Ορισμός ημερομηνίας λήξης",
     "Expires on" : "Λήξη στις",
     "Set link password" : "Ορισμός συνθηματικού για τον σύνδεσμο",
