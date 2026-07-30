@@ -11,7 +11,7 @@ OC.L10N.register(
     "Connected accounts" : "Prijungtos paskyros",
     "Slack Integration" : "„Slack“ integracija",
     "Integration of Slack" : "„Slack“ integracija",
-    "Slack integration lets you send files to Slack from Nextcloud Files." : "„Slack“ integracija leidžia siųsti failus į „Slack“ iš „Nextcloud Files“.",
+    "Slack integration lets you send files to Slack from Nextcloud Files." : "„Slack“ integracija leidžia siųsti failus į „Slack“ iš „Nextcloud Failai“.",
     "Slack admin options saved" : "„Slack“ administratoriaus parinktys išsaugotos",
     "Failed to save Slack admin options" : "Nepavyko išsaugoti „Slack“ administratoriaus parinkčių",
     "Slack integration" : "„Slack“ integracija",
