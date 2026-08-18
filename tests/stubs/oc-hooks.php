@@ -1,6 +1,7 @@
 <?php
 
 declare(strict_types=1);
+
 namespace OC\Hooks {
 	class Emitter {
 		public function emit(string $class, string $value, array $option) {
