@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 3.1.2 - 2026-08-19
+
+### Changed
+- add NC 35 support ([#55](https://github.com/nextcloud/integration_slack/pull/55)) @kyteinsky
+- maintenance updates ([#56](https://github.com/nextcloud/integration_slack/pull/56)) @kyteinsky
+
+
 ## 3.1.1 - 2026-04-16
 
 ### Changed
