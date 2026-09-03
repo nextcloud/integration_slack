@@ -35,6 +35,7 @@ OC.L10N.register(
     "Edit" : "Szerkesztés",
     "Failed to load Slack channels" : "Slack csatornák betöltése sikertelen",
     "Files" : "Fájlok",
+    "Conversation" : "Beszélgetés",
     "Type" : "Típus",
     "Set expiration date" : "Lejárati idő beállítása",
     "Expires on" : "Lejárat:",
