@@ -15,7 +15,7 @@ OC.L10N.register(
     "Slack admin options saved" : "Možnosti administrátora Slack boli uložené",
     "Failed to save Slack admin options" : "Nepodarilo sa uložiť možnosti administrátora Slack",
     "Slack integration" : "Slack integrácia",
-    "To allow your Nextcloud users to use OAuth to authenticate to the Slack app, and set the ID and secret here." : "Aby vaši užívatelia Nextcloud mohli používať OAuth pre overenie v aplikácii Slack, nastavte ID a tajný kľúč tu.",
+    "To allow your Nextcloud users to use OAuth to authenticate to the Slack app, and set the ID and secret here." : "Aby vaši používatelia Nextcloud mohli používať OAuth pre overenie v aplikácii Slack, nastavte ID a tajný kľúč tu.",
     "Link to create a Slack application" : "Odkaz pre vytvorenie Slack aplikácie",
     "Make sure you set the \"Redirect URI\" in the \"OAuth & Permissions\" section of your Slack app settings to" : "Uistite sa, že ste nastavili \"Presmerovanie URI\" v sekcii „OAuth a povolenia“ v nastaveniach aplikácie Slack na",
     "Put the \"Client ID\" and \"Client secret\" below. Your Nextcloud users will then see a \"Connect to Slack\" button in their personal settings." : "Nižšie uveďte „ID klienta“ a „tajný kľúč klienta“. Vašim užívateľom Nextcloud sa potom v ich osobných nastaveniach zobrazí tlačidlo „Pripojiť ku Slacku“.",
