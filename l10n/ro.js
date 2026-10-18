@@ -8,6 +8,7 @@ OC.L10N.register(
     "Connected accounts" : "Conturile conectate",
     "View only" : "Numai se vizualizează",
     "Edit" : "Editează",
+    "Files" : "Fișiere",
     "Type" : "Tip",
     "Set expiration date" : "Specifică data expirării",
     "Comment" : "Comentariu",
