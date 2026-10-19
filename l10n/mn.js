@@ -8,6 +8,7 @@ OC.L10N.register(
     "View only" : "Зөвхөн үзэх",
     "Edit" : "Өөрчлөх",
     "Files" : "Файлууд",
+    "Conversation" : "Яриа",
     "Type" : "Төрөл",
     "Set expiration date" : "Дуусах хугацааг тохируулах",
     "Expires on" : "Дуусах хугацаа",
