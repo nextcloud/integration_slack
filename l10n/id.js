@@ -74,7 +74,6 @@ OC.L10N.register(
     "Go to settings" : "Buka pengaturan",
     "Upload files" : "Unggah file",
     "Public links" : "Tautan publik",
-    "Internal links (Only works for users with access to the files)" : "Tautan internal (Hanya berfungsi untuk pengguna yang memiliki akses ke file)",
-    "Client ID" : "ID Klien"
+    "Internal links (Only works for users with access to the files)" : "Tautan internal (Hanya berfungsi untuk pengguna yang memiliki akses ke file)"
 },
 "nplurals=1; plural=0;");

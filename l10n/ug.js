@@ -74,7 +74,6 @@ OC.L10N.register(
     "Go to settings" : "تەڭشەكلەرگە بېرىڭ",
     "Upload files" : "ھۆججەتلەرنى يۈكلەڭ",
     "Public links" : "ئاممىۋى ئۇلىنىش",
-    "Internal links (Only works for users with access to the files)" : "ئىچكى ئۇلىنىش (پەقەت ھۆججەتلەرنى زىيارەت قىلالايدىغان ئىشلەتكۈچىلەر ئۈچۈن ئىشلەيدۇ)",
-    "Client ID" : "Client ID"
+    "Internal links (Only works for users with access to the files)" : "ئىچكى ئۇلىنىش (پەقەت ھۆججەتلەرنى زىيارەت قىلالايدىغان ئىشلەتكۈچىلەر ئۈچۈن ئىشلەيدۇ)"
 },
 "nplurals=2; plural=(n != 1);");

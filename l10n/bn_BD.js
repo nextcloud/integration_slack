@@ -6,7 +6,6 @@ OC.L10N.register(
     "Set expiration date" : "মেয়াদোত্তীর্ণ হওয়ার তারিখ নির্ধারণ করুন",
     "Comment" : "মন্তব্য",
     "Cancel" : "বাতিল করুন",
-    "Connect" : "সংযুক্ত হও",
-    "Client ID" : "ক্লায়েন্ট পরিচিতি"
+    "Connect" : "সংযুক্ত হও"
 },
 "nplurals=2; plural=(n != 1);");

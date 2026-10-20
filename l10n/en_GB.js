@@ -74,7 +74,6 @@ OC.L10N.register(
     "Go to settings" : "Go to settings",
     "Upload files" : "Upload files",
     "Public links" : "Public links",
-    "Internal links (Only works for users with access to the files)" : "Internal links (Only works for users with access to the files)",
-    "Client ID" : "Client ID"
+    "Internal links (Only works for users with access to the files)" : "Internal links (Only works for users with access to the files)"
 },
 "nplurals=2; plural=(n != 1);");

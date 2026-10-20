@@ -30,7 +30,6 @@
     "Connect" : "Poveži",
     "Go to settings" : "Skoči na nastavitve",
     "Upload files" : "Pošlji datoteke",
-    "Public links" : "Javne povezave",
-    "Client ID" : "ID Odjemalca"
+    "Public links" : "Javne povezave"
 },"pluralForm" :"nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n%100==4 ? 2 : 3);"
 }

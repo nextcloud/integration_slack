@@ -74,7 +74,6 @@ OC.L10N.register(
     "Go to settings" : "Ayarlara git",
     "Upload files" : "Dosyaları yükle",
     "Public links" : "Herkese açık bağlantılar",
-    "Internal links (Only works for users with access to the files)" : "İç bağlantılar (yalnızca bu dosyalara erişebilen kullanıcılar için geçerlidir)",
-    "Client ID" : "İstemci kimliği"
+    "Internal links (Only works for users with access to the files)" : "İç bağlantılar (yalnızca bu dosyalara erişebilen kullanıcılar için geçerlidir)"
 },
 "nplurals=2; plural=(n > 1);");

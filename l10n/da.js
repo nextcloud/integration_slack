@@ -74,7 +74,6 @@ OC.L10N.register(
     "Go to settings" : "Gå til indstillinger",
     "Upload files" : "Send filer",
     "Public links" : "Offentlige links",
-    "Internal links (Only works for users with access to the files)" : "Interne links (virker kun for brugere med adgang til filerne)",
-    "Client ID" : "Klient-ID"
+    "Internal links (Only works for users with access to the files)" : "Interne links (virker kun for brugere med adgang til filerne)"
 },
 "nplurals=2; plural=(n != 1);");

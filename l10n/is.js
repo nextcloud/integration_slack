@@ -14,7 +14,6 @@ OC.L10N.register(
     "Cancel" : "Hætta við",
     "Confirm" : "Staðfesta",
     "Connect" : "Tengjast",
-    "Upload files" : "Hlaða inn skrám",
-    "Client ID" : "Biðlaraauðkenni"
+    "Upload files" : "Hlaða inn skrám"
 },
 "nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);");

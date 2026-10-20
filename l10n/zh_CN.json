@@ -67,7 +67,6 @@
     "Go to settings" : "前往设置",
     "Upload files" : "上传文件",
     "Public links" : "公开链接",
-    "Internal links (Only works for users with access to the files)" : "内部链接（仅对可访问文件的用户有效）",
-    "Client ID" : "客户端 ID"
+    "Internal links (Only works for users with access to the files)" : "内部链接（仅对可访问文件的用户有效）"
 },"pluralForm" :"nplurals=1; plural=0;"
 }

@@ -19,7 +19,6 @@ OC.L10N.register(
     "Confirm" : "Cunfirma",
     "Connect" : "Connete",
     "Upload files" : "Càrriga archìvios",
-    "Internal links (Only works for users with access to the files)" : "Ligòngios internos (funtzionat isceti pro utentes cun atzessu a is archìvios)",
-    "Client ID" : "ID cliente"
+    "Internal links (Only works for users with access to the files)" : "Ligòngios internos (funtzionat isceti pro utentes cun atzessu a is archìvios)"
 },
 "nplurals=2; plural=(n != 1);");

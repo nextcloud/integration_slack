@@ -74,7 +74,6 @@ OC.L10N.register(
     "Go to settings" : "Ava seadistused",
     "Upload files" : "Failide üleslaadimine",
     "Public links" : "Avalikud lingid",
-    "Internal links (Only works for users with access to the files)" : "Sisemine jagamislink (töötab ainult nende kasutajate puhul, kelle on ligipääs nendele failidele)",
-    "Client ID" : "Kliendi ID"
+    "Internal links (Only works for users with access to the files)" : "Sisemine jagamislink (töötab ainult nende kasutajate puhul, kelle on ligipääs nendele failidele)"
 },
 "nplurals=2; plural=(n != 1);");

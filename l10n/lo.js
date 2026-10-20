@@ -31,7 +31,6 @@ OC.L10N.register(
     "Go to settings" : "ໄປທີ່ການຕັ້ງຄ່າ",
     "Upload files" : "ອັບໂຫຼດຟາຍ",
     "Public links" : "ລິງສາທາລະນະ",
-    "Internal links (Only works for users with access to the files)" : "ລິງພາຍໃນ (ໃຊ້ໄດ້ສະເພາະຜູ້ໃຊ້ທີ່ມີສິດເຂົ້າເຖິງຟາຍເທົ່ານັ້ນ)",
-    "Client ID" : "Client ID"
+    "Internal links (Only works for users with access to the files)" : "ລິງພາຍໃນ (ໃຊ້ໄດ້ສະເພາະຜູ້ໃຊ້ທີ່ມີສິດເຂົ້າເຖິງຟາຍເທົ່ານັ້ນ)"
 },
 "nplurals=1; plural=0;");

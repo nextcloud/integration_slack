@@ -12,7 +12,6 @@ OC.L10N.register(
     "_Send link_::_Send links_" : ["ส่งลิงค์"],
     "Confirm" : "ยืนยัน",
     "Connect" : "เชื่อมต่อ",
-    "Upload files" : "อัพโหลดไฟล์จากเครื่อง",
-    "Client ID" : "รหัสไคลเอ็นต์"
+    "Upload files" : "อัพโหลดไฟล์จากเครื่อง"
 },
 "nplurals=1; plural=0;");

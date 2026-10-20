@@ -18,7 +18,6 @@ OC.L10N.register(
     "Cancel" : "Cancelar",
     "Confirm" : "Confirma",
     "Connect" : "Connecta",
-    "Upload files" : "Pujada de fitxers",
-    "Client ID" : "ID del client"
+    "Upload files" : "Pujada de fitxers"
 },
 "nplurals=2; plural=(n != 1);");

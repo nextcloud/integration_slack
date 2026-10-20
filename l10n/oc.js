@@ -10,7 +10,6 @@ OC.L10N.register(
     "Comment" : "Comentaris",
     "Cancel" : "Anullar",
     "Confirm" : "Confirmar",
-    "Connect" : "Connectar",
-    "Client ID" : "ID client"
+    "Connect" : "Connectar"
 },
 "nplurals=2; plural=(n > 1);");

@@ -30,7 +30,6 @@ OC.L10N.register(
     "Do you want to go to your \"Connect accounts\" personal settings?" : "Искате ли да отидете в личните си настройки в \"Свързване на акаунти\"?",
     "Go to settings" : "Отидете в настройките",
     "Public links" : "Публични връзки",
-    "Internal links (Only works for users with access to the files)" : "Вътрешни връзки (Работи само за потребители с достъп до файловете)",
-    "Client ID" : "Идентификатор на клиент"
+    "Internal links (Only works for users with access to the files)" : "Вътрешни връзки (Работи само за потребители с достъп до файловете)"
 },
 "nplurals=2; plural=(n != 1);");

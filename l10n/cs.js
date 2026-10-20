@@ -74,7 +74,6 @@ OC.L10N.register(
     "Go to settings" : "Přejít do nastavení",
     "Upload files" : "Nahrát soubory",
     "Public links" : "Veřejné odkazy",
-    "Internal links (Only works for users with access to the files)" : "Interním odkazy (funguje pouze pro uživatele, kteří mají k těmto souborům přístup)",
-    "Client ID" : "Identif. klienta"
+    "Internal links (Only works for users with access to the files)" : "Interním odkazy (funguje pouze pro uživatele, kteří mají k těmto souborům přístup)"
 },
 "nplurals=4; plural=(n == 1 && n % 1 == 0) ? 0 : (n >= 2 && n <= 4 && n % 1 == 0) ? 1: (n % 1 != 0 ) ? 2 : 3;");

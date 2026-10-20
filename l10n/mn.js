@@ -25,7 +25,6 @@ OC.L10N.register(
     "Connect" : "Холбох",
     "Go to settings" : "Тохиргоонд очих",
     "Upload files" : "Файл оруулах",
-    "Public links" : "Нээлттэй холбоос",
-    "Client ID" : "Хэрэглэгчийн ID"
+    "Public links" : "Нээлттэй холбоос"
 },
 "nplurals=2; plural=(n != 1);");

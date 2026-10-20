@@ -8,7 +8,6 @@ OC.L10N.register(
     "Comment" : "Koment",
     "Cancel" : "Anuloje",
     "Confirm" : "Konfirmo",
-    "Connect" : "Lidhu",
-    "Client ID" : "ID klienti"
+    "Connect" : "Lidhu"
 },
 "nplurals=2; plural=(n != 1);");

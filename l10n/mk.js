@@ -15,7 +15,6 @@ OC.L10N.register(
     "Cancel" : "Откажи",
     "Confirm" : "Потврди",
     "Connect" : "Поврзи се",
-    "Upload files" : "Прикачи датотеки",
-    "Client ID" : "Клиент ИД"
+    "Upload files" : "Прикачи датотеки"
 },
 "nplurals=2; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : 1;");

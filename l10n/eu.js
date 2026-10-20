@@ -37,7 +37,6 @@ OC.L10N.register(
     "Go to settings" : "Joan ezarpenetara",
     "Upload files" : "Igo fitxategiak",
     "Public links" : "Esteka publikoak",
-    "Internal links (Only works for users with access to the files)" : "Barruko estekak (fitxategiak atzitzeko baimena daukaten erabiltzaileei bakarrik balio diete)",
-    "Client ID" : "Bezeroaren IDa"
+    "Internal links (Only works for users with access to the files)" : "Barruko estekak (fitxategiak atzitzeko baimena daukaten erabiltzaileei bakarrik balio diete)"
 },
 "nplurals=2; plural=(n != 1);");

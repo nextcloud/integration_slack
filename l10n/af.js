@@ -6,7 +6,6 @@ OC.L10N.register(
     "Comment" : "Kommentaar",
     "Cancel" : "Cancel",
     "Confirm" : "Bevestig",
-    "Connect" : "Verbind",
-    "Client ID" : "Klant-ID"
+    "Connect" : "Verbind"
 },
 "nplurals=2; plural=(n != 1);");

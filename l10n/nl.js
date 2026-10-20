@@ -21,7 +21,6 @@ OC.L10N.register(
     "Connect" : "Verbinden",
     "Go to settings" : "Ga naar instellingen",
     "Upload files" : "Bestanden uploaden",
-    "Public links" : "Openbare links",
-    "Client ID" : "Client ID"
+    "Public links" : "Openbare links"
 },
 "nplurals=2; plural=(n != 1);");

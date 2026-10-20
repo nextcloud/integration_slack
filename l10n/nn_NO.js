@@ -8,7 +8,6 @@ OC.L10N.register(
     "Set expiration date" : "Set utløpsdato",
     "Comment" : "Kommentér",
     "Cancel" : "Cancel",
-    "Connect" : "Kople til",
-    "Client ID" : "Klient-ID"
+    "Connect" : "Kople til"
 },
 "nplurals=2; plural=(n != 1);");

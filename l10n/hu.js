@@ -60,7 +60,6 @@ OC.L10N.register(
     "Go to settings" : "Ugrás a beállításokhoz",
     "Upload files" : "Fájlok feltöltése",
     "Public links" : "Nyilvános hivatkozások",
-    "Internal links (Only works for users with access to the files)" : "Belső hivatkozások (Csak a fájlokhoz hozzáférő felhasználók esetén működik)",
-    "Client ID" : "Kliensazonosító"
+    "Internal links (Only works for users with access to the files)" : "Belső hivatkozások (Csak a fájlokhoz hozzáférő felhasználók esetén működik)"
 },
 "nplurals=2; plural=(n != 1);");

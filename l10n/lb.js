@@ -8,7 +8,6 @@ OC.L10N.register(
     "Comment" : "Kommentar",
     "Cancel" : "Cancel",
     "Confirm" : "Konfirméieren",
-    "Connect" : "Verbannen",
-    "Client ID" : "Client ID"
+    "Connect" : "Verbannen"
 },
 "nplurals=2; plural=(n != 1);");

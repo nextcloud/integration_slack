@@ -6,7 +6,6 @@ OC.L10N.register(
     "Comment" : "კომენტარი",
     "Cancel" : "გაუქმება",
     "Confirm" : "დადასტურება",
-    "Connect" : "დაკავშირება",
-    "Client ID" : "კლიენტის ID"
+    "Connect" : "დაკავშირება"
 },
 "nplurals=2; plural=(n!=1);");

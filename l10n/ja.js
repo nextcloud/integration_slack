@@ -17,7 +17,6 @@ OC.L10N.register(
     "Cancel" : "キャンセル",
     "Confirm" : "承認",
     "Connect" : "接続",
-    "Upload files" : "アップロードファイル",
-    "Client ID" : "クライアント ID"
+    "Upload files" : "アップロードファイル"
 },
 "nplurals=1; plural=0;");

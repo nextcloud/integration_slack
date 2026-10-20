@@ -14,7 +14,6 @@ OC.L10N.register(
     "Cancel" : "Hủy",
     "Confirm" : "Xác nhận",
     "Connect" : "Kết nối",
-    "Upload files" : "Tải lên tập tin",
-    "Client ID" : "ID khách hàng"
+    "Upload files" : "Tải lên tập tin"
 },
 "nplurals=1; plural=0;");

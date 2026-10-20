@@ -74,7 +74,6 @@ OC.L10N.register(
     "Go to settings" : "Перейти в параметры",
     "Upload files" : "Загрузить файлы",
     "Public links" : "Общедоступные ссылки",
-    "Internal links (Only works for users with access to the files)" : "Внутренние ссылки (работает только для пользователей, имеющих доступ к файлам)",
-    "Client ID" : "ID клиента"
+    "Internal links (Only works for users with access to the files)" : "Внутренние ссылки (работает только для пользователей, имеющих доступ к файлам)"
 },
 "nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);");

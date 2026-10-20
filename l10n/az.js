@@ -5,7 +5,6 @@ OC.L10N.register(
     "Comment" : "Komentariya",
     "Cancel" : "Cancel",
     "Confirm" : "Təsdiq edin",
-    "Connect" : "Qoşul",
-    "Client ID" : "Müştəri İD-s"
+    "Connect" : "Qoşul"
 },
 "nplurals=2; plural=(n != 1);");

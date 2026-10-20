@@ -9,7 +9,6 @@ OC.L10N.register(
     "Comment" : "Comentariu",
     "Cancel" : "Encaboxar",
     "Confirm" : "Confirmar",
-    "Connect" : "Coneutar",
-    "Client ID" : "ID de veceru"
+    "Connect" : "Coneutar"
 },
 "nplurals=2; plural=(n != 1);");

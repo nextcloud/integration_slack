@@ -32,7 +32,6 @@ OC.L10N.register(
     "Go to settings" : "설정으로 이동",
     "Upload files" : "파일 업로드",
     "Public links" : "공개 링크",
-    "Internal links (Only works for users with access to the files)" : "내부 링크 (이 파일에 접근 권한이 있는 사람만 사용 가능)",
-    "Client ID" : "클라이언트 ID"
+    "Internal links (Only works for users with access to the files)" : "내부 링크 (이 파일에 접근 권한이 있는 사람만 사용 가능)"
 },
 "nplurals=1; plural=0;");

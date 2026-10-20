@@ -9,7 +9,6 @@ OC.L10N.register(
     "Cancel" : "Cancel",
     "Confirm" : "Sergeg",
     "Connect" : "Qqen",
-    "Upload files" : "Azen ifuyla",
-    "Client ID" : "Asulay ID n wemsaɣ"
+    "Upload files" : "Azen ifuyla"
 },
 "nplurals=2; plural=(n != 1);");

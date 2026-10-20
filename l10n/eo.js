@@ -7,7 +7,6 @@ OC.L10N.register(
     "Comment" : "Komento",
     "Cancel" : "Cancel",
     "Confirm" : "Konfirmi",
-    "Connect" : "Konekti",
-    "Client ID" : "Klientidentigilo"
+    "Connect" : "Konekti"
 },
 "nplurals=2; plural=(n != 1);");

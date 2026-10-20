@@ -25,7 +25,6 @@ OC.L10N.register(
     "Connect" : "Yhdistä",
     "Go to settings" : "Mene asetuksiin",
     "Upload files" : "Lataa tiedostoja",
-    "Public links" : "Julkiset linkit",
-    "Client ID" : "Asiakas-ID"
+    "Public links" : "Julkiset linkit"
 },
 "nplurals=2; plural=(n != 1);");

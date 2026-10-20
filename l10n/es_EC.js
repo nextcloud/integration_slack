@@ -30,7 +30,6 @@ OC.L10N.register(
     "Do you want to go to your \"Connect accounts\" personal settings?" : "¿Deseas ir a la configuración personal de \"Conectar cuentas\"?",
     "Go to settings" : "Ir a configuración",
     "Public links" : "Enlaces públicos",
-    "Internal links (Only works for users with access to the files)" : "Enlaces internos (solo funciona para usuarios con acceso a los archivos)",
-    "Client ID" : "ID del cliente"
+    "Internal links (Only works for users with access to the files)" : "Enlaces internos (solo funciona para usuarios con acceso a los archivos)"
 },
 "nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;");

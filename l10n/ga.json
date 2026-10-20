@@ -72,7 +72,6 @@
     "Go to settings" : "Téigh go dtí socruithe",
     "Upload files" : "Uaslódáil comhaid",
     "Public links" : "Naisc phoiblí",
-    "Internal links (Only works for users with access to the files)" : "Naisc inmheánacha (Ní oibríonn ach d’úsáideoirí a bhfuil rochtain acu ar na comhaid)",
-    "Client ID" : "Aitheantas Cliant"
+    "Internal links (Only works for users with access to the files)" : "Naisc inmheánacha (Ní oibríonn ach d’úsáideoirí a bhfuil rochtain acu ar na comhaid)"
 },"pluralForm" :"nplurals=5; plural=(n==1 ? 0 : n==2 ? 1 : n<7 ? 2 : n<11 ? 3 : 4);"
 }

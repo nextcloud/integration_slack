@@ -74,7 +74,6 @@ OC.L10N.register(
     "Go to settings" : "رفتن به تنظیمات",
     "Upload files" : "بارگذاری فایل‌ها",
     "Public links" : "لینک‌های عمومی",
-    "Internal links (Only works for users with access to the files)" : "لینک‌های داخلی (فقط برای کاربرانی که به فایل‌ها دسترسی دارند کار می‌کند)",
-    "Client ID" : "شناسه کلاینت"
+    "Internal links (Only works for users with access to the files)" : "لینک‌های داخلی (فقط برای کاربرانی که به فایل‌ها دسترسی دارند کار می‌کند)"
 },
 "nplurals=2; plural=(n > 1);");

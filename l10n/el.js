@@ -74,7 +74,6 @@ OC.L10N.register(
     "Go to settings" : "Μετάβαση στις ρυθμίσεις",
     "Upload files" : "Αποστολή αρχείων",
     "Public links" : "Δημόσιοι σύνδεσμοι",
-    "Internal links (Only works for users with access to the files)" : "Εσωτερικοί σύνδεσμοι (Λειτουργεί μόνο για χρήστες με πρόσβαση στα αρχεία)",
-    "Client ID" : "Αναγνωριστικό πελάτη"
+    "Internal links (Only works for users with access to the files)" : "Εσωτερικοί σύνδεσμοι (Λειτουργεί μόνο για χρήστες με πρόσβαση στα αρχεία)"
 },
 "nplurals=2; plural=(n != 1);");

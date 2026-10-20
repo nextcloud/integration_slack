@@ -11,7 +11,6 @@ OC.L10N.register(
     "Comment" : "Izoh",
     "Cancel" : "Bekor qilish",
     "Confirm" : "Tasdiqlash",
-    "Connect" : "Connect",
-    "Client ID" : "Mijoz identifikatori"
+    "Connect" : "Connect"
 },
 "nplurals=1; plural=0;");

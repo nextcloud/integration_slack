@@ -74,7 +74,6 @@ OC.L10N.register(
     "Go to settings" : "到設定",
     "Upload files" : "上傳檔案",
     "Public links" : "公開連結",
-    "Internal links (Only works for users with access to the files)" : "內部連結（僅對有權存取此檔案的使用者有效）",
-    "Client ID" : "客戶端 ID"
+    "Internal links (Only works for users with access to the files)" : "內部連結（僅對有權存取此檔案的使用者有效）"
 },
 "nplurals=1; plural=0;");

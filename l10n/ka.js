@@ -10,7 +10,6 @@ OC.L10N.register(
     "Cancel" : "Cancel",
     "Confirm" : "Confirm",
     "Connect" : "Connect",
-    "Upload files" : "Upload files",
-    "Client ID" : "Client ID"
+    "Upload files" : "Upload files"
 },
 "nplurals=2; plural=(n!=1);");

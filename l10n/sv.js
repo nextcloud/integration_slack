@@ -74,7 +74,6 @@ OC.L10N.register(
     "Go to settings" : "Gå till inställningarna",
     "Upload files" : "Ladda upp filer",
     "Public links" : "Offentliga länkar",
-    "Internal links (Only works for users with access to the files)" : "Interna länkar (fungerar endast för användare med åtkomst till filerna)",
-    "Client ID" : "Klient-ID"
+    "Internal links (Only works for users with access to the files)" : "Interna länkar (fungerar endast för användare med åtkomst till filerna)"
 },
 "nplurals=2; plural=(n != 1);");
