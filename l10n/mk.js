@@ -9,6 +9,7 @@ OC.L10N.register(
     "View only" : "Само за гледање",
     "Edit" : "Уреди",
     "Files" : "Датотеки",
+    "Conversation" : "Разговор",
     "Type" : "Вид",
     "Set expiration date" : "Постави рок на траење",
     "Comment" : "Коментар",
